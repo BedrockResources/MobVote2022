@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=Manager	#
+
+## Name
+name.agnes=Lille Agnes	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Lille Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Lille Vu	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§fStem på	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§fTOG TIL	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT LIVE	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=Rutsjebane	#
+bb.dropper.title=Tragt-udkaster	#
+bb.arena.title=Jens' kamparena	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Snifferparkour	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Tuff Golem Parkour	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Rascalparkour	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=OK	#
+bb.dialog.button.queue=Stil dig i køen	#
+bb.dialog.button.leaderboard=Vis førertavle	#
+button.close=Luk	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=Tilbage	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=Mærkelige undervandsæg, en uhyggelig tilstedeværelse i minerne og ... hatte, der bevæger sig? Velkommen til mob-afstemningen! Jeg er Lille Vu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=Denne afstemning vil være tilgængelig i 24 timer, indtil Minecraft Live går, tja, live. Så stopper afstemningen, og dette sted forsvinder for altid! Disse 24 timer er din chance for at gøre en forskel!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Tal med Lille Jens for at lære om at stemme og Tiny Agnes for at høre om mobsene! Og prøv vores minispil!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=Hej! Jeg er Lille Jens! Velkommen til afstemningen!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=Din stemme definerer Minecrafts fremtid! Hjælp os Mojang-udviklere med at vælge, hvilken mob vi skal udvikle næste gang. Vi har tre idéer, men kan kun vælge én. Der kan kun være én! Træk i et håndtag for at stemme på din yndlingsmob.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=Du kan til enhver tid ændre din stemme, men uanset hvor ofte du trækker i håndtaget eller ændrer din stemme, er det kun din sidste stemme, der tæller.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=Hej! Jeg er Lille Agnes! Velkommen til denne mobverden!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=Vi glæder os til at fortælle dig mere om mobsene for at hjælpe dig med at beslutte, hvilken en du skal stemme på.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=Hvilken en vil du gerne lære om?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=The rascal er en drilsk pøbel, der elsker at spille Hide &seek! 	###{locked="rascal"}
+dialog.rascal.button.2=Den lurer i underjordiske miner og venter på at blive fundet.	#
+dialog.rascal.button.3=Hvis du får øje på den samme rascal tre gange, vil den belønne dig med en præmie, så hold godt øje!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=tuff golem er en statue med et twist - den kommer til live! Når den vågner, vil den gå rundt, samle op og holde enhver genstand, den støder på.	###{Locked="tuff golem"}
+dialog.tuff.button.2=Bare rolig, den vender tilbage til det samme sted, som du anbragte den, når den forvandler sig til en statue igen.	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=sniffer var engang en del af Overworlds økosystem. Nu kan du bringe den uddøde pøbel tilbage, hvis du kan finde dens æg!	###{locked="sniffer"}
+dialog.sniffer.button.2=Udklæk nye sniffere, opdræt dem, og find ud af, hvordan uddøde mobs kan trives igen. Der er frø derude, som kun snifferen kan finde!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Halløj! Velkommen til Lille Jens' kamparena.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=Hvor mange bølger kan du besejre på to minutter?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=Det giver point at ramme mobs, og du kan bruge disse point til at købe opgraderinger!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=Du behøver ikke kæmpe mod andre spillere, I kan ikke skade hinanden!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=Jeg så en ny mob hernede. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=Der er den, inde i den hule! Det er en rascal, og den lader til at være venlig.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=Hvis jeg finder den tre gange, vil den måske give mig en præmie.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=Jeg har fået øje på rascallen. Den er ikke fjendtlig, bare lidt drillesyg.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=Den lever under jorden og elsker at lege gemmeleg.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=Hvis samfundet stemmer for rascal, kan vi fortsætte den her gemmeleg for altid.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=Hold øje med hemmeligheder!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=Der er vanskelige udfordringer, sjove steder at lege, og mobs fra tidligere mob-afstemninger er skjult rundt omkring i verdenen. Kan du finde dem alle sammen?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=Kæmp for at få den bedste tid i denne hoppende udkaster-udfordring!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=Kan du lave et rent drop uden at ramme noget?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=Hold øje med timeren og se, hvor hurtigt du kan komme ned til bunden! Du har et minut til at forsøge.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=Er det her en statue eller en hatteholder? Oh, den er levende!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=Vent, kan dette være en tuff golem?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=De kan holde på en genstand og bevæge sig rundt hjemme hos dig!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=Det er en kunstudstilling, der kan holde din hat? Åh, det er en tuff golem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=Jeg havde kun hørt rygter om statuen, der bliver levende.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=Hvis spillerne stemmer på dem her, kan vi åbne en kunstudstilling.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=Tag på en rundrejse i verdenen, og se seværdighederne!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=Du kan til enhver tid forlade minevognen, men hvis du gør det, kommer du tilbage til mig.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=Vil du parkoure til toppen af rascallen? Denne parkour er den nemmeste herinde. Men stadig lidt drilsk!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=Træd på glødende blokke for at indstille gemmepunkterne. Fald ikke ned!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=Når du er øverst, skal du trække i håndtaget for at ringe med klokken!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=Bliv ét med naturen, når du svømmer og klatrer gennem snifferens domæne! Denne parkour er af middel sværhedsgrad. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=Træd på glødende blokke for at indstille gemmepunkterne. Fald ikke ned!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=Når du er øverst, skal du trække i håndtaget for at ringe med klokken!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=Fryse! Løsn nu, og ræs gennem tuff golem er hjemme! Denne parkour er den sværeste herinde. Ligesom virkelig hårdt.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=Træd på glødende blokke for at indstille gemmepunkterne. Fald ikke ned!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=Når du er øverst, skal du trække i håndtaget for at ringe med klokken!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=Det er en sniffer. Jeg troede, at de var uddøde.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=De elskede planter og fandt frø ved at snuse til jorden på den mest bedårende måde.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=Hvis samfundet stemmer for snifferen, kan de hjælpe os med at finde nye planter.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=Denne mob klækkede fra et højst usædvanligt ældgammelt æg.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=Det lader til at være en planteekspert.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=Med alle disse æg vil jeg vædde på, at vi kunne hjælpe dem med at trives i oververdenen igen.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=Intet problem	#
+bb.minigames.subtitle.join_queue=Du er nu i køen!	#
+bb.minigames.subtitle.in_queue=Du er allerede i denne kø.	#
+bb.minigames.actionbar.queue.1=Du er nr.	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=ud af	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=i kø til	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=Mob-stemme!	#
+bb.entry.subtitle=Version 0.21.4	#
+bb.entry.dialog.title=Du bliver vist som Steve.	#
+bb.entry.dialog.body=På denne server er brugertilpassede skins og personligheder slået fra. Du kan skifte til et andet skin i omklædningsrummet.	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=Slut!	#
+bb.coaster.subtitle.end=Tak, fordi du deltog!	#
+bb.coaster.title.exit=Afslut	#
+bb.coaster.subtitle.exit=Du forlod minevognen	#
+
+## Battle Arena System Messages
+bb.arena.title.start=Gør dig klar ...	#
+bb.arena.subtitle.start=Ødelæg alle mobs!	#
+bb.arena.actionbar.start=Du har to minutter!	#
+bb.arena.actionbar.score.1=§fPoint:	#
+bb.arena.actionbar.score.2=§f- Tid:	#
+bb.arena.wave=Bølge	#
+bb.arena.wave.final=SIDSTE BØLGE	#
+bb.arena.win=Du vandt!	#
+bb.arena.subtitle.fight=Kæmp!	#
+bb.arena.subtitle.wave_complete=Det var det!	#
+bb.arena.title.game_over=Tiden er gået!!!	#
+bb.arena.subtitle.no_wave_complete=Ingen bølger afsluttet	#
+bb.arena.subtitle.one_wave_complete=1 bølge gennemført	#
+bb.arena.actionbar.no_wave_complete=Bedre held næste gang!	#
+bb.arena.subtitle.game_over=bølger gennemført	#
+bb.arena.title.item_give=Hvor dejligt!	#
+bb.arena.subtitle.item_give=Du gav alle	#
+bb.arena.title.item_get=§aDu fik	#
+bb.arena.title.no_players=Kan ikke give nu	#
+bb.arena.subtitle.no_players=Arena-spil skal køre	#
+bb.arena.title.already_given=Allerede givet	#
+bb.arena.subtitle.already_given=Kun én gang pr. kamp	#
+bb.arena.ending=Arena:	#
+bb.arena.score=Point:	#
+bb.arena.waves_completed=Bølger gennemført:	#
+bb.arena.player_score=Spillerresultater:	#
+bb.arena.message.buy_again=§cDu har allerede denne	#
+bb.arena.message.downgrade_armor=§cKan ikke købe eliksir igen	#
+bb.arena.message.downgrade_sword=§cKan ikke nedgradere sværd	#
+bb.arena.message.purchase.1=§aKøbt	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=til	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cDu har ikke råd til denne endnu!	#
+bb.arena.message.death=Du døde!	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Jernsværd	#
+bb.upgrade.weapon.diamond_sword=Diamantsværd	#
+bb.upgrade.weapon.netherite_sword=Netheritsværd	#
+bb.upgrade.weapon.trident=Trefork	#
+bb.upgrade.armor.iron_armor=Jernrustning	#
+bb.upgrade.armor.diamond_armor=Diamantrustning	#
+bb.upgrade.armor.netherite_armor=Netherit-rustning	#
+bb.upgrade.consume.cookie=Småkage	#
+bb.upgrade.consume.potion=Hurtighedseliksir	#
+bb.upgrade.consume.apple=Guldæble	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=Du faldt!	#
+bb.waypoint.96=Sidste forsøg!	#
+bb.waypoint.97=Game over!	#
+bb.waypoint.98=Gennemført!	#
+bb.waypoint.100=Parkour gennemført!	#
+bb.waypoint.subtitle.1=Vejvisere nået	#
+bb.waypoint.subtitle.2=Tid:	#
+bb.waypoint.subtitle.3=Resterende forsøg:	#
+bb.waypoints=§fVejvisere:	#
+bb.time=§fTid:	#
+bb.tries=§f- Resterende forsøg:	#
+bb.parkour=Parkour:	#
+bb.parkour.finished=Parkour gennemført!	#
+bb.in=om	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=Klar!	#
+bb.dropper.subtitle.start=Kig ned	#
+bb.dropper.actionbar.start=Hvor hurtigt kan du nå bunden?	#
+bb.dropper.actionbar.time=Tid:	#
+bb.dropper.title.lose=Tiden er gået!	#
+bb.dropper.subtitle.lose=Du havde ikke mere tid	#
+bb.dropper.actionbar.lose=Bedre held næste gang!	#
+bb.dropper.title.win=sekunder	#
+bb.dropper.subtitle.win=Din tid	#
+bb.dropper.actionbar.win=Godt gået!	#
+bb.dropper.actionbar.personal_best=Ny personlig rekord!	#
+bb.dropper.message.portal=Tragt-udkaster:	#
+bb.dropper.message.finished=afsluttede udkaster på	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Arenarangliste	#
+bb.leaderboard.dropper=Udkasterrangliste	#
+bb.leaderboard.parkour=Parkourrangliste	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=Luk vindue	#
+
+## Voting Text System Messages
+bb.vote.already_voted=Du har allerede stemt	#
+bb.vote.change_vote=Stemme ændret	#
+bb.vote.voted=Du stemte	#
+bb.vote.received=Stemme modtaget!	#
+
+###
+action.hint.exit.mv:livetrain=Tak, fordi du deltog!	#

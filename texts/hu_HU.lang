@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=Vezető	#
+
+## Name
+name.agnes=Apró Ágnes	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Apró Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Apró Vu	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§fSzavazás erre:	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§fVONAT IDE:	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT LIVE	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=Hullámvasút	#
+bb.dropper.title=Tölcsér kidobó	#
+bb.arena.title=Jens harci arénája	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Sniffer Parkour	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Tuff Golem Parkour	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Rascal parkour	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=OK	#
+bb.dialog.button.queue=Csatlakozás a várólistához	#
+bb.dialog.button.leaderboard=Ranglista megtekintése	#
+button.close=Bezárás	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=Vissza	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=Furcsa, víz alatti tojások, hátborzongató hangulat a bányákban, és... mozgó kalapok? Üdv a mobszavazáson! Apró Vu vagyok.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=Ez a szavazás 24 órán át lesz elérhető, amíg a Minecraft Live tart. Ha az élő adásnak vége, a szavazás lezárul, és ez a hely örökre eltűnik! Csak ebben a 24 órában szavazhatsz!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Ha szeretnél többet megtudni a szavazásról, beszélj Apró Jensszel, ha pedig szeretnéd megismerni a mobokat, keresd Apró Agnest! És próbáld ki a minijátékainkat!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=Hej! Apró Jens vagyok! Üdv a szavazáson!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=A szavazatod meghatározza a Minecraft jövőjét! Segíts a Mojang fejlesztőinek kiválasztani, hogy melyik mobot fejlesszük legközelebb. Három ötletünk van, de csak egyet választhatunk. Csak egy maradhat! Szavazz a kedvenc mobodra a megfelelő kar meghúzásával!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=A szavazatodat bármikor módosíthatod, de attól függetlenül, hogy hányszor húzod meg a kart vagy módosítod a szavazatodat, csak az utolsó számít.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=Szia, Apró  Agnes vagyok! Üdv a mobok világában!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=Nagyon örülünk, hogy mesélhetünk a mobokról, és segíthetünk eldönteni, melyikre szavazz.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=Melyikről szeretnél többet megtudni?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=A rascal egy huncut csőcselék, amely imádja játszani a Hide & Seek! 	###{locked="rascal"}
+dialog.rascal.button.2=A föld alatti bányákban rejtőzik, és várja, hogy megtalálják.	#
+dialog.rascal.button.3=Ha háromszor is észreveszed ugyanazt a rascal, az megjutalmaz egy nyereményt, ezért tartsd nyitva a szemed!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=A tuff golem egy csavarral ellátott szobor - életre kel! Amikor felébred, körbejár, felveszi és megtartja a kezében lévő tárgyakat, amelyekkel találkozik.	###{Locked="tuff golem"}
+dialog.tuff.button.2=Ne aggódj, amikor visszaváltozik szoborrá, visszatér ugyanoda, ahol elhelyezted.	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=A sniffer egykor az Overworld ökoszisztémájának része volt. Most visszahozhatod a kihalt csőcseléket, ha megtalálod a tojását!	###{locked="sniffer"}
+dialog.sniffer.button.2=Keltsd ki az új sniffers-t, tenyésztasd őket, és találd ki, hogyan lehet a kihalt csőcseléket még egyszer boldoggá tenni. Vannak magok odakint, amelyeket csak a sniffer találnak meg!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Hej hej! Üdvözlünk Apró Jens harci arénájában.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=Hány hullámon kerekedsz felül két perc alatt?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=Ha eltalálod a mobokat, pontokat kapsz, és beválthatod őket fejlesztésekre.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=Ne is próbálkozz más játékosok megtámadásával, nem bánthatjátok egymást!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=Egy új mobot láttam idelent. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=Ott van, abban a barlangban! Ez egy rascal, és barátságosnak tűnik.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=Ha háromszor is megtalálom, talán megjutalmaz.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=Észrevettem a rascal. Nem ellenséges, csak egy kicsit huncut.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=A föld alatt él, és imád bújócskázni.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=Ha a közösség a rascal szavaz, akkor örökké fenntarthatjuk ezt a bújócska-kereső játékot.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=Légy résen, és fedd fel a titkokat!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=Nehéz kihívásokat, szórakoztató játékokat és a korábbi szavazások mobjait rejti ez a világ. Megtalálod az összeset?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=Versenyezz, és érd el a legjobb idődet ebben a pattogós kidobó kihívásban!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=Menni fog egy tökéletes kidobás úgy, hogy találasz el semmit?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=Figyeld az időzítőt, és próbáld ki, milyen gyorsan érsz le az aljára! Egy perced van.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=Ez egy szobor vagy kalaptartó? Ó, ez él!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=Várj, lehet, hogy ez egy tuff golem?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=Megtartják a tárgyakat, és körbejárnak!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=Ez egy művészeti kiállítás, amely képes tartani a kalapját? Ó, ez egy tuff golem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=Csak pletykákat hallottam a szoborról, amely életre kel.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=Ha a játékosok ezekre szavaznak, művészeti kiállítást nyithatunk.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=Fedezd fel a világot és a látnivalókat!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=Bármikor kiszállhatsz a csilléből, de ha kiszállsz, visszatérsz hozzám.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=Szeretne parkolni a rascal tetejére? Ez a parkour itt a legegyszerűbb. Még mindig egy kicsit trükkös!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=A mentési pontok beállításához lépj a ragyogó blokkokra. Ne ess a földre!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=Ha felértél, húzd meg a kart, hogy megszólaljon a csengő!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=Válj eggyé a természettel, miközben úszol és mászol a sniffer tartományán! Ez a parkour közepes nehézségű. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=A mentési pontok beállításához lépj a ragyogó blokkokra. Ne ess a földre!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=Ha felértél, húzd meg a kart, hogy megszólaljon a csengő!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=Fagy! Most fagyoskodj meg, és száguldj át a tuff golem otthonában! Ez a parkour a legnehezebb itt. Mint, nagyon nehéz.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=A mentési pontok beállításához lépj a ragyogó blokkokra. Ne ess a földre!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=Ha felértél, húzd meg a kart, hogy megszólaljon a csengő!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=Ez egy sniffer, azt hittem, ezek kihaltak.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=Szerették a növényeket, és imádnivalóan szimatolták a földet, magok után kutatva.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=Ha a közösség megszavazza a sniffer segíthetnek nekünk új növényeket találni.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=Ez a mob egy rendkívül különös, ősi tojásból kelt ki.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=Növényszakértőnek tűnik.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=Ezekkel a tojásokkal biztosan segíthetünk nekik újra boldogulni a Felvilágban.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=Semmi gond	#
+bb.minigames.subtitle.join_queue=Csatlakoztál a várólistához!	#
+bb.minigames.subtitle.in_queue=Már csatlakoztál ehhez a várólistához.	#
+bb.minigames.actionbar.queue.1=Nem felelsz meg.	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=/	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=várólistán a következőre:	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=Mobszavazás!	#
+bb.entry.subtitle=0.21.4-es verzió	#
+bb.entry.dialog.title=Steve-ként jelensz meg	#
+bb.entry.dialog.body=Ezen a kiszolgálón le vannak tiltva az egyéni felületek és személyiségek. Az öltözőben átválthatsz egy másik felületre.	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=Vége!	#
+bb.coaster.subtitle.end=Köszönjük, hogy felültél rá!	#
+bb.coaster.title.exit=Kilépés	#
+bb.coaster.subtitle.exit=Kiszálltál a csilléből	#
+
+## Battle Arena System Messages
+bb.arena.title.start=Készülj fel...	#
+bb.arena.subtitle.start=Győzd le az összes mobot!	#
+bb.arena.actionbar.start=Két perced van!	#
+bb.arena.actionbar.score.1=§fPontok:	#
+bb.arena.actionbar.score.2=§f- Idő:	#
+bb.arena.wave=Integetés	#
+bb.arena.wave.final=VÉGSŐ HULLÁM	#
+bb.arena.win=Nyertél!	#
+bb.arena.subtitle.fight=Harc!	#
+bb.arena.subtitle.wave_complete=Minden kész!	#
+bb.arena.title.game_over=Lejárt az idő!!!	#
+bb.arena.subtitle.no_wave_complete=Nincsenek teljesített hullámok	#
+bb.arena.subtitle.one_wave_complete=1 hullám teljesítve	#
+bb.arena.actionbar.no_wave_complete=Majd legközelebb!	#
+bb.arena.subtitle.game_over=hullám teljesítve	#
+bb.arena.title.item_give=Milyen kedves!	#
+bb.arena.subtitle.item_give=Mindenkinek adtál	#
+bb.arena.title.item_get=§aMegkaptad	#
+bb.arena.title.no_players=Most nem tudok adni	#
+bb.arena.subtitle.no_players=Az Aréna játéknak futnia kell	#
+bb.arena.title.already_given=Már megadtad	#
+bb.arena.subtitle.already_given=Mérkőzésenként csak egyszer	#
+bb.arena.ending=Aréna:	#
+bb.arena.score=Pontszám:	#
+bb.arena.waves_completed=Teljesített hullámok:	#
+bb.arena.player_score=Játékospontszámok:	#
+bb.arena.message.buy_again=§cMár van ilyened	#
+bb.arena.message.downgrade_armor=§cNem lehet újra bájitalt vásárolni	#
+bb.arena.message.downgrade_sword=§cA kardot nem lehet leminősíteni	#
+bb.arena.message.purchase.1=§aMegvásárolva	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=ennyiért:	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cEzt még nem engedheted meg magadnak!	#
+bb.arena.message.death=Meghaltál!	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Vaskard	#
+bb.upgrade.weapon.diamond_sword=Gyémántkard	#
+bb.upgrade.weapon.netherite_sword=Alvilágérc kard	#
+bb.upgrade.weapon.trident=Szigony	#
+bb.upgrade.armor.iron_armor=Vaspáncél	#
+bb.upgrade.armor.diamond_armor=Gyémántpáncél	#
+bb.upgrade.armor.netherite_armor=Alvilágérc páncél	#
+bb.upgrade.consume.cookie=Csokis keksz	#
+bb.upgrade.consume.potion=Gyorsaság bájitala	#
+bb.upgrade.consume.apple=Aranyalma	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=Elbuktál!	#
+bb.waypoint.96=Utolsó próbálkozás!	#
+bb.waypoint.97=Játék vége	#
+bb.waypoint.98=Kész!	#
+bb.waypoint.100=Parkour teljesítve!	#
+bb.waypoint.subtitle.1=Tájékozódási pontok elérve	#
+bb.waypoint.subtitle.2=Idő:	#
+bb.waypoint.subtitle.3=Fennmaradó próbálkozások:	#
+bb.waypoints=§fÚtjelzők:	#
+bb.time=§fIdő:	#
+bb.tries=§f- Fennmaradó próbálkozások:	#
+bb.parkour=Parkour:	#
+bb.parkour.finished=Parkour teljesítve!	#
+bb.in=itt:	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=Készülj fel!	#
+bb.dropper.subtitle.start=Lefelé nézés	#
+bb.dropper.actionbar.start=Milyen gyorsan érsz le az aljára?	#
+bb.dropper.actionbar.time=Idő:	#
+bb.dropper.title.lose=Lejárt az idő!	#
+bb.dropper.subtitle.lose=Kifutottál az időből	#
+bb.dropper.actionbar.lose=Majd legközelebb!	#
+bb.dropper.title.win=másodperc	#
+bb.dropper.subtitle.win=Az időd	#
+bb.dropper.actionbar.win=Szép munka!	#
+bb.dropper.actionbar.personal_best=Új egyéni rekord!	#
+bb.dropper.message.portal=Tölcsér kidobó:	#
+bb.dropper.message.finished=a kidobó befejezve ennyi idő alatt:	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Aréna ranglista	#
+bb.leaderboard.dropper=Kidobó ranglista	#
+bb.leaderboard.parkour=Parkour ranglista	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=Ablak bezárása	#
+
+## Voting Text System Messages
+bb.vote.already_voted=Már szavaztál	#
+bb.vote.change_vote=Szavazat módosítva	#
+bb.vote.voted=Szavaztál	#
+bb.vote.received=A szavazat beérkezett!	#
+
+###
+action.hint.exit.mv:livetrain=Köszönjük, hogy felültél rá!	#

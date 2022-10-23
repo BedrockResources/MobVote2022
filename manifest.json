@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "MobVote",
+		"description": "MobVote Resource Pack",
+		"uuid": "3bdebb27-13ad-6aa7-b726-e703c4b3fe28",
+		"version": [
+			1,
+			0,
+			47
+		],
+		"min_engine_version": [
+			1,
+			16,
+			0
+		]
+	},
+	"metadata": {
+		"authors": [
+			"Steve"
+		],
+		"generated_with": {
+			"blockbench_entity_wizard": [
+				"1.0.6"
+			]
+		}
+	},
+	"modules": [
+		{
+			"description": "MobVote",
+			"type": "resources",
+			"uuid": "0598f940-62c9-c211-7f33-b4387dac30d0",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=管理员	#
+
+## Name
+name.agnes=小艾格尼丝	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=小延斯	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=小武	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§投票支持	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§乘坐火车前往	###Dropdown for a train that takes you to a place
+sign.vote.train2=§f《我的世界》直播	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=过山车	#
+bb.dropper.title=漏斗投掷器	#
+bb.arena.title=延斯的对战竞技场	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Sniffer跑酷	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Tuff Golem跑酷	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Rascal跑酷	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=确定	#
+bb.dialog.button.queue=加入队列	#
+bb.dialog.button.leaderboard=查看排行榜	#
+button.close=关闭	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=返回	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=奇怪的水下蛋、矿井中令人毛骨悚然的鬼怪，以及...移动的帽子？ 欢迎来到生物投票！我是小武。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=这个投票将持续 24 小时，直到《我的世界》直播开始，嗯，直播。然后投票将停止，这个地方将永远消失！这 24 小时里你有机会做出改变！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=与小延斯交谈，通过了解投票以及小艾格尼丝来了解生物！试试我们的迷你游戏！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=嘿！我是小延斯！欢迎投票！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=你的投票决定《我的世界》的未来！帮助我们的 Mojang 开发人员选择下一步应该开发的生物。我们有三个想法，但只能选择其中一个。只能有一个！ 拉动杠杆，为你最喜欢的生物投票。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=你可以随时更改你的投票，但无论拉动该杠杆或更改投票多少次，只有最后一票才算数。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=嗨，我是小艾格尼丝！欢迎来到生物的世界！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=我们很高兴地告诉你更多关于生物的信息，以帮助你决定投票给哪一个。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=你想了解哪一个？	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=rascal是一个淘气的暴民，喜欢玩捉迷藏！ 	###{locked="rascal"}
+dialog.rascal.button.2=它潜伏在地下矿井中，等待被发现。	#
+dialog.rascal.button.3=一个淘气的生物，喜欢玩捉迷藏！这个rascal潜伏在地下矿井中，等待被发现。如果你发现同一rascal三次，它会奖励你一个奖品，所以睁大你的眼睛！	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=tuff golem是一座扭曲的雕像 - 它活了过来！当它醒来时，它会四处走动，拿起并握住它遇到的任何物品。	###{Locked="tuff golem"}
+dialog.tuff.button.2=别担心，当它变回雕像时，它会回到你放置它的位置。	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=sniffer曾经是主世界生态系统的一部分。现在，如果你能找到它的蛋，你可以带回灭绝的生物！	###{locked="sniffer"}
+dialog.sniffer.button.2=Hatch new sniffers, breed them, and figure out how to make the extinct mob thrive once more. There are seeds out there that only the sniffer can find!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=嘿嘿嘿！欢迎来到小延斯的对战竞技场。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=你能在两分钟内打败多少波？	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=击中生物会给你点数，你可以用这些点数来购买升级！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=不要与其他玩家对战，你们不能互相伤害！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=我在这下面看到了一个新的生物。 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=它就在那里，在那个洞穴里！这是一个rascal，而且似乎很友好。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=如果我找到它三次，也许它会给我一个奖品。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=我发现了rascal。这不是敌意，只是有点恶作剧。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=它生活在地下，喜欢玩捉迷藏。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=如果社区投票支持rascal，我们可以永远保持这种捉迷藏的游戏。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=睁大眼睛寻找秘密！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=困难的挑战、游玩的好地方，以及由生物投票中投选出来的生物都隐藏在这个世界的各地。你能把它们都找出来吗？	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=在这个弹力投掷器挑战中争夺你的最佳时间！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=你能做一个干净利落的下降，且不击中任何东西吗？	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=观看计时器，看看你能多快到达底部！你有一分钟的时间可以尝试。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=这是雕像还是帽子架？哦，它是活着的！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=等等，这会是一个tuff golem吗？	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=他们可以拿着一件物品，在你的地方走来走去！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=这是一个可以撑住帽子的艺术展览？哦，这是一个tuff golem！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=我只听说过关于活雕像的谣言。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=如果玩家投票支持这些，我们就可以举办一个艺术展览。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=环游世界，看看风景！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=你可以随时离开矿车，但如果这样做，你会回到我身边。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=想跑酷到rascal的顶部吗？这个跑酷是这里最简单的。还是有点棘手！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=踩在发光方块上以设置保存点数。不要倒在地上！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=一旦你到达顶部，拉动杠杆以按铃！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=当您游泳和攀登sniffer的领域时，与大自然融为一体！这个跑酷是中等难度的 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=踩在发光方块上以设置保存点数。不要倒在地上！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=一旦你到达顶部，拉动杠杆以按铃！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=冻结！现在解冻，穿过tuff golem的家！这个跑酷是这里最难的。就像，真的很难。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=踩在发光方块上以设置保存点数。不要倒在地上！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=一旦你到达顶部，拉动杠杆以按铃！	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=这是一个sniffer，我以为它们已经灭绝了。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=他们喜欢植物，并以最可爱的方式嗅探地面来找到种子。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=如果社区投票支持sniffer他们可以帮助我们找到新的植物。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=该生物是从一个最不寻常的古代蛋孵化出来的。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=它似乎是一位植物专家。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=有了所有这些蛋，我敢打赌，我们可以帮助他们再次在主世界中茁壮成长。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=没问题	#
+bb.minigames.subtitle.join_queue=已加入队列！	#
+bb.minigames.subtitle.in_queue=你已经在此队列中。	#
+bb.minigames.actionbar.queue.1=你不是。	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=用完	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=在...队列中	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=生物投票！	#
+bb.entry.subtitle=版本 0.21.4	#
+bb.entry.dialog.title=你当前显示的身份为史蒂夫。	#
+bb.entry.dialog.body=此服务器已禁用自定义皮肤和角色。你可以在更衣室切换为其他皮肤。	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=结束了！	#
+bb.coaster.subtitle.end=感谢您的骑乘！	#
+bb.coaster.title.exit=退出	#
+bb.coaster.subtitle.exit=你离开了矿车	#
+
+## Battle Arena System Messages
+bb.arena.title.start=做好准备...	#
+bb.arena.subtitle.start=消灭所有生物！	#
+bb.arena.actionbar.start=你有两分钟的时间！	#
+bb.arena.actionbar.score.1=§f点数：	#
+bb.arena.actionbar.score.2=§f- 时间：	#
+bb.arena.wave=波	#
+bb.arena.wave.final=最后一波攻势	#
+bb.arena.win=你已经赢了！	#
+bb.arena.subtitle.fight=战斗！	#
+bb.arena.subtitle.wave_complete=全部完成！	#
+bb.arena.title.game_over=时间到！！！	#
+bb.arena.subtitle.no_wave_complete=未完成的攻势波数	#
+bb.arena.subtitle.one_wave_complete=1 波已完成	#
+bb.arena.actionbar.no_wave_complete=祝你下次好运！	#
+bb.arena.subtitle.game_over=完成的攻势波数	#
+bb.arena.title.item_give=真好！	#
+bb.arena.subtitle.item_give=你给了每个人	#
+bb.arena.title.item_get=§a你已接收	#
+bb.arena.title.no_players=现在无法给	#
+bb.arena.subtitle.no_players=竞技场游戏应该正在运行	#
+bb.arena.title.already_given=已经给出	#
+bb.arena.subtitle.already_given=每场比赛只限一次	#
+bb.arena.ending=竞技场：	#
+bb.arena.score=分数：	#
+bb.arena.waves_completed=完成的攻势波数	#
+bb.arena.player_score=玩家得分：	#
+bb.arena.message.buy_again=§c你已经拥有了这个	#
+bb.arena.message.downgrade_armor=§c无法再买药水了	#
+bb.arena.message.downgrade_sword=§c无法降级剑	#
+bb.arena.message.purchase.1=§a已购买	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=为	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§c你还买不起这个！	#
+bb.arena.message.death=你失败了！	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=铁剑	#
+bb.upgrade.weapon.diamond_sword=钻石剑	#
+bb.upgrade.weapon.netherite_sword=下界合金剑	#
+bb.upgrade.weapon.trident=三叉戟	#
+bb.upgrade.armor.iron_armor=铁盔甲	#
+bb.upgrade.armor.diamond_armor=钻石盔甲	#
+bb.upgrade.armor.netherite_armor=下界合金盔甲	#
+bb.upgrade.consume.cookie=Cookie	#
+bb.upgrade.consume.potion=迅捷药水	#
+bb.upgrade.consume.apple=金苹果	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=你摔倒了！	#
+bb.waypoint.96=最后一次尝试！	#
+bb.waypoint.97=游戏结束！	#
+bb.waypoint.98=完成！	#
+bb.waypoint.100=跑酷完成！	#
+bb.waypoint.subtitle.1=到达的航点	#
+bb.waypoint.subtitle.2=时间：	#
+bb.waypoint.subtitle.3=剩余尝试次数：	#
+bb.waypoints=§航点：	#
+bb.time=§f时间：	#
+bb.tries=§f- 剩余尝试次数：	#
+bb.parkour=跑酷：	#
+bb.parkour.finished=跑酷完成！	#
+bb.in=在	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=做好准备！	#
+bb.dropper.subtitle.start=向下看	#
+bb.dropper.actionbar.start=你能多快到达底部？	#
+bb.dropper.actionbar.time=时间：	#
+bb.dropper.title.lose=时间到！	#
+bb.dropper.subtitle.lose=你没有时间了	#
+bb.dropper.actionbar.lose=祝你下次好运！	#
+bb.dropper.title.win=秒	#
+bb.dropper.subtitle.win=你的时间	#
+bb.dropper.actionbar.win=干的漂亮！	#
+bb.dropper.actionbar.personal_best=新的个人最好成绩！	#
+bb.dropper.message.portal=漏斗投掷器：	#
+bb.dropper.message.finished=成品投掷器	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=竞技场排行榜	#
+bb.leaderboard.dropper=投掷器排行榜	#
+bb.leaderboard.parkour=跑酷排行榜	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=关闭窗口	#
+
+## Voting Text System Messages
+bb.vote.already_voted=你已经投过票了	#
+bb.vote.change_vote=投票已更改	#
+bb.vote.voted=你已投票	#
+bb.vote.received=投票已收到！	#
+
+###
+action.hint.exit.mv:livetrain=感谢您的骑乘！	#

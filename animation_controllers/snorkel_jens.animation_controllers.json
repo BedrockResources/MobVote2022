@@ -1,0 +1,57 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.snorkel_jens":{
+			"initial_state": "default",
+			"states":{
+				"default": { 
+					"animations": [ "idle_x4"],
+					"transitions": [{"snorkel_bubbles": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}] 
+				},
+				
+				"snorkel_bubbles": { 
+					"animations": ["snorkel_bubbles"],
+					"transitions": [{"idle_b": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+
+				"idle_b": { 
+					"animations": ["idle_x3"],
+					"transitions": [{"wave_b": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+
+				"wave_b": { 
+					"animations": ["wave_x3"],
+					"transitions": [{"idle_c": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+
+				"idle_c": { 
+					"animations": ["idle_x3"],
+					"transitions": [{"snorkel_bubbles_b": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+
+				"snorkel_bubbles_b": { 
+					"animations": ["snorkel_bubbles"],
+					"transitions": [{"default": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+
+				"talk":{
+					"animations": ["talk"],
+					"transitions": [{"default": "query.variant == 0"},
+									{"start_game": "query.variant == 2"}]
+				},
+
+				"start_game":{
+					"animations": ["start_game"],
+					"transitions": [{"default": "query.any_animation_finished"}]
+				}
+
+			} 
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "materials": {
+    "version": "1.0.0",
+    "dropper_agnes:entity_alphatest": {"+defines": ["USE_UV_ANIM"]},
+    "fireplace:entity_emissive_alpha": {"+defines": ["USE_UV_ANIM"]}
+  }
+}

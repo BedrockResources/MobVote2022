@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=Johtaja	#
+
+## Name
+name.agnes=Pikku-Agnes	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Pikku-Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Pikku-Vu	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§fÄänestä oliota	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§fTREENAA	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT LIVE	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=Vuoristorata	#
+bb.dropper.title=Suppilopudottaja	#
+bb.arena.title=Jensin taisteluareena	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Sniffer Parkour	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Tuff Golem Parkour	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Rascal Parkour	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=OK	#
+bb.dialog.button.queue=Liity jonoon	#
+bb.dialog.button.leaderboard=Näytä tulostaulu	#
+button.close=Sulje	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=Edellinen	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=Outoja vedenalaisia munia, aavemainen läsnäolo kaivoksissa ja... liikkuvia hattuja? Tervetuloa Mob Vote -olioäänestykseen! Olen Pikku-Vu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=Tämä äänestys on saatavilla 24 tunnin ajan, kunnes Minecraft Live julkaistaan, no, suorana. Sitten äänestys päättyy ja tämä paikka katoaa ikuisesti! Nämä 24 tuntia ovat tilaisuutesi tehdä muutos!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Keskustele Pikku-Jensin kanssa saadaksesi lisätietoja äänestämisestä ja Pikku-Agnesin kanssa kuullaksesi olioista! Ja kokeile minipelejämme!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=Hej! Olen Pikku-Jens! Tervetuloa äänestykseen!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=Äänesi määrittelee Minecraftin tulevaisuuden! Auta meitä Mojang-kehittäjiä valitsemaan, mikä olio meidän pitäisi kehittää seuraavaksi. Meillä on kolme ideaa, mutta voimme valita vain yhden.Vain yksi voi olla olemassa! Vedä vipua äänestääksesi suosikkioliotasi.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=Voit muuttaa ääntäsi milloin tahansa, mutta riippumatta siitä, kuinka usein vedät tätä vipua tai muutat ääntäsi, vain viimeisin äänesi lasketaan.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=Hei, olen Pikku-Agnes! Tervetuloa olioiden maailmaan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=Haluamme todella kertoa teille lisää olioista, että voitte päättää, mitä oliota äänestää.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=Mistä haluaisit oppia?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=rascal on ilkikurinen väkijoukko, joka rakastaa leikkiä Hide &Seek! 	###{locked="rascal"}
+dialog.rascal.button.2=Se vaanii maanalaisissa kaivoksissa odottaen löytämistä.	#
+dialog.rascal.button.3=Ilkikurinen olio, joka tykkää piiloleikistä! Maanalaisissa kaivoksissa piileskelevä rascal odottaa löytämistään. Jos huomaat saman rascalin kolme kertaa, saat siltä palkinnon, joten pidä silmäsi auki!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=tuff golem on patsas, jossa on kierre - se herää eloon! Kun se herää, se kävelee ympäriinsä, poimii ja pitää kiinni kaikista kohtaamistaan esineistä.	###{Locked="tuff golem"}
+dialog.tuff.button.2=Älä huoli, muuttuessaan takaisin patsaaksi se palaa samaan paikkaan, johon olit sijoittanut sen.	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=sniffer oli aikoinaan osa Overworldin ekosysteemiä. Nyt voit tuoda takaisin sukupuuttoon kuolleen väkijoukon, jos löydät sen munan!	###{locked="sniffer"}
+dialog.sniffer.button.2=Hatch new sniffers, breed them, and figure out how to make the extinct mob thrive once more. There are seeds out there that only the sniffer can find!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Hej hej! Tervetuloa Pikku-Jensin taisteluareenalle.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=Kuinka monta aaltoa voit voittaa kahdessa minuutissa?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=Olioiden lyöminen antaa sinulle pisteitä ja voit käyttää näitä pisteitä päivitysten ostamiseen!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=Älä vaivaudu taistelemaan muita pelaajia vastaan, ette voi satuttaa toisiaan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=Näin täällä alhaalla uuden olion. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=Siinä se on, siinä luolassa! Se on rascal, ja se näyttää olevan ystävällinen.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=Jos löydän sen kolme kertaa, ehkä se antaa minulle palkinnon.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=Olen huomannut rascal. Se ei ole vihamielistä, vain hieman ilkikurista.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=Se asuu maan alla ja tykkää leikkiä piilosta.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=Jos yhteisö äänestää rascal puolesta, voimme pitää tämän piilopelin käynnissä ikuisesti.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=Pidä silmäsi auki salaisuuksien varalta!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=On vaikeita haasteita, hauskoja pelipaikkoja, ja menneiden olioäänestysten oliot ovat piilossa ympäri maailmaa. Löydätkö ne kaikki?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=Kilpaile parhaasta ajastasi tässä pomppivassa pudottajahaasteessa!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=Osaatko pudottaa puhtaasti, osumatta mihinkään?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=Katso ajastinta ja kokeile, kuinka nopeasti pääset pohjaan! Sinulla on minuutti aikaa kokeilla.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=Onko tämä patsas vai hattuteline? Ai, se on elossa!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=Odota, voisiko tämä olla tuff golem?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=Ne voivat pidellä esinettä ja liikkua pitkin asumustasi!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=Se on taidenäyttely, joka voi pitää hattuasi? Voi, se on tuff golem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=Olin kuullut vain huhuja patsaasta, joka herää eloon.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=Jos pelaajat äänestävät näiden puolesta, voimme avata taidenäyttelyn.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=Kierrä maailmaa ja tutustu nähtävyyksiin!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=Voit poistua kaivosvaunusta milloin tahansa, mutta jos teet niin, tulet takaisin luokseni.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=Haluatko pysäköidä rascal huipulle? Tämä parkour on helpoin täällä. Vielä vähän hankalaa!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=Astu hehkuviin kuutioihin asettaaksesi tallennuspisteet. Älä putoa maahan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=Kun olet ylhäällä, vedä vipua soittaaksesi kelloa!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=Tule yhdeksi luonnon kanssa, kun uit ja kiipeät sniffer verkkotunnuksen läpi! Tämä parkour on keskivaikea. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=Astu hehkuviin kuutioihin asettaaksesi tallennuspisteet. Älä putoa maahan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=Kun olet ylhäällä, vedä vipua soittaaksesi kelloa!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=Jäätyä! Vapauta nyt ja juokse tuff golem kodin läpi! Tämä parkour on vaikein täällä. Kuten, todella vaikeaa.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=Astu hehkuviin kuutioihin asettaaksesi tallennuspisteet. Älä putoa maahan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=Kun olet ylhäällä, vedä vipua soittaaksesi kelloa!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=Se on sniffer, luulin, että nämä olivat kuolleet sukupuuttoon.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=Ne rakastivat kasveja ja löysivät siemeniä haistelemalla söpösti maata.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=Jos yhteisö äänestää sniffer he voivat auttaa meitä löytämään uusia kasveja.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=Tämä olio kuoriutui hyvin epätavallisesta muinaisesta munasta.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=Se näyttää olevan kasviasiantuntija.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=Lyön vetoa, että voisimme auttaa niitä menestymään jälleen ylimaailmassa kaikkien näiden munien avulla.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=Ei ongelmaa	#
+bb.minigames.subtitle.join_queue=Liityit jonoon!	#
+bb.minigames.subtitle.in_queue=Olet jo tässä jonossa.	#
+bb.minigames.actionbar.queue.1=Olet nro.	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=sijalla	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=jonossa	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=Mob Vote -olioäänestys!	#
+bb.entry.subtitle=Versio 0.21.4	#
+bb.entry.dialog.title=Sinut näytetään Stevenä.	#
+bb.entry.dialog.body=Mukautetut olemukset ja persoonat eivät ole käytöstä tällä palvelimella. Voit vaihtaa toiseen olemukseen pukuhuoneessa.	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=Loppu!	#
+bb.coaster.subtitle.end=Kiitos, kun kävit kyydissä!	#
+bb.coaster.title.exit=Poistu	#
+bb.coaster.subtitle.exit=Poistuit kaivosvaunusta	#
+
+## Battle Arena System Messages
+bb.arena.title.start=Valmistaudu...	#
+bb.arena.subtitle.start=Tuhoa kaikki oliot!	#
+bb.arena.actionbar.start=Sinulla on kaksi minuuttia aikaa!	#
+bb.arena.actionbar.score.1=§fPisteet:	#
+bb.arena.actionbar.score.2=§f- Aika:	#
+bb.arena.wave=Vilkutus	#
+bb.arena.wave.final=VIIMEINEN AALTO	#
+bb.arena.win=Sinä voitit!	#
+bb.arena.subtitle.fight=Taistele!	#
+bb.arena.subtitle.wave_complete=Kaikki valmiina!	#
+bb.arena.title.game_over=Aika on loppunut!!!	#
+bb.arena.subtitle.no_wave_complete=Ei aaltoja tehty	#
+bb.arena.subtitle.one_wave_complete=1 aalto tehty	#
+bb.arena.actionbar.no_wave_complete=Parempaa onnea ensi kerralla!	#
+bb.arena.subtitle.game_over=aaltoa tehty	#
+bb.arena.title.item_give=Kuinka mukavaa!	#
+bb.arena.subtitle.item_give=Annoit kaikille	#
+bb.arena.title.item_get=§aSait	#
+bb.arena.title.no_players=Ei voi antaa nyt	#
+bb.arena.subtitle.no_players=Areenapelin on oltava käynnissä	#
+bb.arena.title.already_given=Jo annettu	#
+bb.arena.subtitle.already_given=Vain kerran ottelussa	#
+bb.arena.ending=Areena:	#
+bb.arena.score=Pisteet:	#
+bb.arena.waves_completed=Aaltoja tehty:	#
+bb.arena.player_score=Pelaajien pisteet:	#
+bb.arena.message.buy_again=§c Sinulla on tämä jo	#
+bb.arena.message.downgrade_armor=§cEt voi ostaa taikajuomaa uudestaan	#
+bb.arena.message.downgrade_sword=§cEi voi heikentää miekkaa	#
+bb.arena.message.purchase.1=§aOstettu	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=varten	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cSinulla ei ole vielä varaa tähän!	#
+bb.arena.message.death=Kuolit!	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Rautamiekka	#
+bb.upgrade.weapon.diamond_sword=Timanttimiekka	#
+bb.upgrade.weapon.netherite_sword=Horniittimiekka	#
+bb.upgrade.weapon.trident=Atrain	#
+bb.upgrade.armor.iron_armor=Rautahaarniska	#
+bb.upgrade.armor.diamond_armor=Timanttihaarniska	#
+bb.upgrade.armor.netherite_armor=Horniittihaarniska	#
+bb.upgrade.consume.cookie=Keksi	#
+bb.upgrade.consume.potion=Nopeutuksen taikajuoma	#
+bb.upgrade.consume.apple=Kultainen omena	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=Putosit!	#
+bb.waypoint.96=Viimeinen yritys!	#
+bb.waypoint.97=Peli loppui!	#
+bb.waypoint.98=Valmis!	#
+bb.waypoint.100=Parkour suoritettu!	#
+bb.waypoint.subtitle.1=Reittipisteet saavutettu	#
+bb.waypoint.subtitle.2=Aika:	#
+bb.waypoint.subtitle.3=Yrityksiä jäljellä:	#
+bb.waypoints=§fReittipisteet:	#
+bb.time=§fAika:	#
+bb.tries=§f- Yrityksiä jäljellä:	#
+bb.parkour=Parkour:	#
+bb.parkour.finished=Parkour suoritettu!	#
+bb.in=in	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=Valmistaudu!	#
+bb.dropper.subtitle.start=Katso alas	#
+bb.dropper.actionbar.start=Kuinka nopeasti pääset pohjaan asti?	#
+bb.dropper.actionbar.time=Aika:	#
+bb.dropper.title.lose=Aika on loppu!	#
+bb.dropper.subtitle.lose=Aika loppui kesken	#
+bb.dropper.actionbar.lose=Parempaa onnea ensi kerralla!	#
+bb.dropper.title.win=sekuntia	#
+bb.dropper.subtitle.win=Sinun aikasi	#
+bb.dropper.actionbar.win=Hyvää työtä!	#
+bb.dropper.actionbar.personal_best=Uusi henkilökohtainen ennätys!	#
+bb.dropper.message.portal=Suppilopudottaja:	#
+bb.dropper.message.finished=pääsi pudottajan läpi ajassa	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Areenan tulostaulukko	#
+bb.leaderboard.dropper=Pudottajan tulostaulukko	#
+bb.leaderboard.parkour=Parkourin tulostaulukko	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=Sulje ikkuna	#
+
+## Voting Text System Messages
+bb.vote.already_voted=Olet jo äänestänyt	#
+bb.vote.change_vote=Ääni vaihdettu	#
+bb.vote.voted=Äänestit	#
+bb.vote.received=Ääni vastaanotettu!	#
+
+###
+action.hint.exit.mv:livetrain=Kiitos, kun kävit kyydissä!	#

@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:livetrain",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/minecart"
+			},
+			"geometry": {
+				"default": "geometry.livetrain"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

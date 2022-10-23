@@ -1,0 +1,30 @@
+{
+	"format_version": "1.10.0",
+	"render_controllers": {
+		"controller.render.test_entity_2": {
+			"arrays": {
+				"geometries": {
+					"array.geos": [
+						"geometry.default"
+
+					]
+				},
+				"textures": {
+					"array.textures": [
+						"texture.default",
+						"texture.smile"
+					]
+				}
+			},
+			"geometry": "array.geos[query.variant]",
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			],
+			"textures": [
+				"array.textures[query.variant]"
+			]
+		}
+	}
+}

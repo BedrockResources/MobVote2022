@@ -1,0 +1,241 @@
+{
+    "format_version": "1.14.0",
+    "sound_definitions": {
+        "minigame.joinqueue": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_challenge_complete_small_01"]
+        },
+        "minigame.fail": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_player_death_stinger_02"]
+        },
+        "minigame.record": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_tappable_unlock_legendary"]
+        },
+        "arena.enter": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_adventure_enter_button"]
+        },
+        "arena.nextround1": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_adventure_chest_common_stinger"]
+        },
+        "arena.nextround2": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_adventure_chest_uncommon_stinger"]
+        },
+        "arena.nextround3": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_adventure_chest_rare_stinger"]
+        },
+        "arena.nextround4": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_adventure_chest_epic_stinger"]
+        },
+        "arena.nextround5": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_adventure_chest_legendary_stinger"]
+        },
+        "dropper.finish": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_challenge_complete_big_01"]
+        },
+        "dropper.breakfloor": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_boost_activate"]
+        },
+
+        "dropper.waypoint_passed": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_item_fly_out"]
+        },
+        "dropper.start": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_challenge_complete_small_02"]
+        },
+        "parkour.waypoint1": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": [{ "name": "sounds/SFX_tappable_melodic_common_01", "volume": 0.2 }]
+        },
+        "parkour.waypoint2": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": [{ "name": "sounds/SFX_tappable_melodic_common_02", "volume": 0.2 }]
+        },
+        "parkour.waypoint3": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": [{ "name": "sounds/SFX_tappable_melodic_common_03", "volume": 0.2 }]
+        },
+        "parkour.waypoint4": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": [{ "name": "sounds/SFX_tappable_melodic_common_04", "volume": 0.2 }]
+        },
+        "parkour.waypoint5": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": [{ "name": "sounds/SFX_tappable_melodic_common_05", "volume": 0.2 }]
+        },
+        "parkour.fell1": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_player_damage_vo_01"]
+        },
+        "parkour.fell2": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_player_damage_vo_02"]
+        },
+        "parkour.fell3": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_player_damage_vo_03"]
+        },
+        "parkour.fell4": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_player_damage_vo_04"]
+        },
+        "parkour.fell5": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_player_damage_vo_05"]
+        },
+        "arena.purchase": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_minecoin_wallet_plus_button"]
+        },
+        "arena.purchasesword": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_metal_impact"]
+        },
+        "arena.mobspawn": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_adventure_model_drop"]
+        },
+        "arena.purchasefail": {
+            "__use_legacy_max_distance": "true",
+            "category": "ui",
+            "sounds": ["sounds/SFX_delete_button"]
+        },
+
+        "entity.jens.random": {
+            "__use_legacy_max_distance": "true",
+            "category": "neutral",
+            "sounds": [
+                "sounds/voices/jens0",
+                "sounds/voices/jens3",
+                "sounds/voices/jens4",
+                "sounds/voices/jens5",
+                "sounds/voices/jens7",
+                "sounds/voices/jens8"
+            ]
+        },
+        "minecart.musictrack" : {
+            "__use_legacy_max_distance" : "true",
+            "category" : "ui",
+            "sounds" : [ "sounds/music/BlueMin" ],
+            "stream": true,
+            "volume": 0.5,
+            "load_on_low_memory": true
+         },
+        "entity.vu.random": {
+            "__use_legacy_max_distance": "true",
+            "category": "neutral",
+            "sounds": [
+                "sounds/voices/Vu1",
+                "sounds/voices/Vu12",
+                "sounds/voices/Vu13",
+                "sounds/voices/Vu19",
+                "sounds/voices/vu2",
+                "sounds/voices/Vu20",
+                "sounds/voices/Vu21",
+                "sounds/voices/Vu22",
+                "sounds/voices/Vu27",
+                "sounds/voices/Vu28",
+                "sounds/voices/Vu29",
+                "sounds/voices/vu3",
+                "sounds/voices/Vu30",
+                "sounds/voices/Vu33",
+                "sounds/voices/Vu34",
+                "sounds/voices/Vu35",
+                "sounds/voices/Vu36",
+                "sounds/voices/Vu37",
+                "sounds/voices/Vu38",
+                "sounds/voices/vu5",
+                "sounds/voices/vu6",
+                "sounds/voices/Vu9"
+            ]
+        },
+        "entity.agnes.random": {
+            "__use_legacy_max_distance": "true",
+            "category": "neutral",
+            "sounds": [
+                "sounds/voices/Agnes_10",
+                "sounds/voices/Agnes_12",
+                "sounds/voices/Agnes_13",
+                "sounds/voices/Agnes_14",
+                "sounds/voices/Agnes_15",
+                "sounds/voices/Agnes_16",
+                "sounds/voices/Agnes_17",
+                "sounds/voices/Agnes_2",
+                "sounds/voices/Agnes_20",
+                "sounds/voices/Agnes_23",
+                "sounds/voices/Agnes_26",
+                "sounds/voices/Agnes_28",
+                "sounds/voices/Agnes_29",
+                "sounds/voices/Agnes_32",
+                "sounds/voices/Agnes_33",
+                "sounds/voices/Agnes_35",
+                "sounds/voices/Agnes_36",
+                "sounds/voices/Agnes_4",
+                "sounds/voices/Agnes_5",
+                "sounds/voices/Agnes_6",
+                "sounds/voices/Agnes_8",
+                "sounds/voices/Agnes_9"
+            ]
+        },
+        "music.game": {
+            "category": "music",
+            "sounds": [
+                {
+                    "name": "sounds/music/general_original_01_earth",
+                    "stream": true,
+                    "volume": 0.2,
+                    "load_on_low_memory": true
+                },
+                {
+                    "name": "sounds/music/BlueMin",
+                    "stream": true,
+                    "volume": 0.2,
+                    "load_on_low_memory": true
+                },
+                {
+                    "name": "sounds/music/general_original_02_sprouting",
+                    "stream": true,
+                    "volume": 0.2,
+                    "load_on_low_memory": true
+                }
+            ]
+        }
+    }
+}

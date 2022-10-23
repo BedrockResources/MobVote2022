@@ -1,0 +1,42 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:parkour_vu",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/parkour_vu",
+				"talk": "textures/entity/parkour_vu_talk"
+			},
+			"geometry": {
+				"default": "geometry.parkour_vu"
+			},
+
+			"render_controllers": ["controller.render.parkour_vu"],
+
+			"scripts":{
+				"animate":["parkour_vu_controller", "particle_controller"]
+			},
+
+			"animations":{
+				"static": "animation.parkour_vu.Static",
+				"idle_loop_x1": "animation.parkour_vu.Idle_x1",
+				"idle_loop_x2": "animation.parkour_vu.Idle_x2",
+				"idle_loop_x4": "animation.parkour_vu.Idle_x4",
+				"idle_loop_x6": "animation.parkour_vu.Idle_x6",
+				"left_right_jump": "animation.parkour_vu.Left_Right_Jump",
+				"jump_hat_pop": "animation.parkour_vu.Jump_Hat_Pop",
+				"jump_hat_spin": "animation.parkour_vu.Jump_Hat_Spin",
+				"talk": "animation.parkour_vu.Talk",
+				"start_game":"animation.parkour_vu.Start_Game",
+
+				"default_particle_animation": "animation.particle.default",
+				"parkour_vu_controller": "controller.animation.parkour_vu",
+				"particle_controller":"controller.animation.particle"
+			},
+			"particle_effects": {"default": "mv:parkour_vu_icon"}
+		}
+	}
+}

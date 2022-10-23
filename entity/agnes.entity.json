@@ -1,0 +1,43 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:agnes",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/agnes",
+				"talk": "textures/entity/agnes_talk"
+			},
+			"geometry": {
+				"default": "geometry.agnes"
+			},
+
+			"render_controllers": ["controller.render.agnes"],
+
+			"scripts":{
+				"animate":["agnes_controller", "particle_controller"]
+			},
+
+			"animations":{
+				"idle_x1": "animation.agnes.Idle_x1",
+				"idle_x2": "animation.agnes.Idle_x2",
+				"idle_x3": "animation.agnes.Idle_x3",
+				"idle_x4": "animation.agnes.Idle_x4",
+				"wave_x3": "animation.agnes.Wave_x3",
+				"wave_x6": "animation.agnes.Wave_x6",
+				"heyo": "animation.agnes.Heyo",
+				"talk": "animation.agnes.Talk",
+				"talk_b": "animation.agnes.Talk_B",
+				"start_game": "animation.agnes.Start_Game",
+				"start_game_b": "animation.agnes.Start_Game_B",
+
+				"default_particle_animation": "animation.particle.default",
+				"agnes_controller": "controller.animation.agnes",
+				"particle_controller":"controller.animation.particle"
+			},
+			"particle_effects": {"default": "mv:talk_icon"}
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:parkour_agnes",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/parkour_agnes",
+				"talk": "textures/entity/parkour_agnes_talk"
+			},
+			"geometry": {
+				"default": "geometry.parkour_agnes"
+			},
+
+			"render_controllers": ["controller.render.parkour_agnes"],
+
+			"scripts":{
+				"animate":["parkour_agnes_controller", "particle_controller"]
+			},
+
+			"animations":{
+				"static": "animation.parkour_agnes.Static",
+				"idle_loop_x1": "animation.parkour_agnes.Idle_x1",
+				"idle_loop_x2": "animation.parkour_agnes.Idle_x2",
+				"idle_loop_x4": "animation.parkour_agnes.Idle_x4",
+				"idle_loop_x6": "animation.parkour_agnes.Idle_x6",
+				"left_right_jump": "animation.parkour_agnes.Left_Right_Jump",
+				"jump_hat_pop": "animation.parkour_agnes.Jump_Hat_Pop",
+				"jump_hat_spin": "animation.parkour_agnes.Jump_Hat_Spin",
+				"jump_body_spin": "animation.parkour_agnes.Jump_Body_Spin",
+				"talk": "animation.parkour_agnes.Talk",
+				"start_game":"animation.parkour_agnes.Start_Game",
+
+				"default_particle_animation": "animation.particle.default",
+				"parkour_agnes_controller": "controller.animation.parkour_agnes",
+				"particle_controller":"controller.animation.particle"
+			},
+			"particle_effects": {"default": "mv:parkour_agnes_icon"}
+		}
+	}
+}

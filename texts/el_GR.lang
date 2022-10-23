@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=Διαχειριστής	#
+
+## Name
+name.agnes=Μικροσκοπική Άγκνες	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Μικροσκοπικός Τζενς	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Μικροσκοπικός Βου	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§fΨήφισε για	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§fΠΡΟΠΟΝΗΣΟΥ ΓΙΑ	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT LIVE	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=Τρενάκι του λούνα παρκ	#
+bb.dropper.title=Ρίχτης Χωνιού	#
+bb.arena.title=Αρένα μάχης του Τζενς	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Παρκούρ Sniffer	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Παρκούρ Tuff Golem	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Παρκούρ Rascal	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=OK	#
+bb.dialog.button.queue=Συμμετοχή στην ουρά	#
+bb.dialog.button.leaderboard=Προβολή Πίνακα κατάταξης	#
+button.close=Κλείσιμο	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=Πίσω	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=Παράξενα αυγά του βυθού, μια απόκοσμη παρουσία στα ορυχεία και… κινούμενα καπέλα; Καλώς ήρθες στην ψηφοφορία πλασμάτων! Είμαι ο Μικροσκοπικός Βου.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=Αυτή η ψηφοφορία θα είναι διαθέσιμη για 24 ώρες έως ότου το Minecraft Live κυκλοφορήσει. Τότε η ψηφοφορία θα σταματήσει και αυτό το μέρος θα εξαφανιστεί για πάντα! Αυτές οι 24 ώρες είναι η ευκαιρία σου για να κάνεις μια αλλαγή!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Μίλησε με τον Μικροσκοπικό Τζενς για να μάθεις για την ψηφοφορία και με τη Μικροσκοπική Άγκνες για να ακούσεις για τα πλάσματα! Και δοκίμασε τα μίνι παιχνίδια μας!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=Γεια σου! Είμαι ο Μικροσκοπικός Τζενς! Καλώς ήρθες στην ψηφοφορία!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=Η ψήφος σου καθορίζει το μέλλον του Minecraft! Βοήθησε εμάς, τους προγραμματιστές της Mojang, να επιλέξουμε ποιο πλάσμα πρέπει να αναπτύξουμε στη συνέχεια. Έχουμε τρεις ιδέες, αλλά μπορούμε να επιλέξουμε μόνο μία. Μπορεί να υπάρχει μόνο ένα! Τράβηξε ένα μοχλό για να ψηφίσεις για το αγαπημένο σου πλάσμα.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=Μπορείς να αλλάξεις την ψήφο σου ανά πάσα στιγμή, αλλά ανεξάρτητα από το πόσο συχνά τραβάς αυτό τον μοχλό ή αλλάζεις την ψήφο σου, μόνο η τελευταία σου ψήφος μετράει.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=Γεια είμαι η Μικροσκοπική Άγκνες! Καλώς ήρθες σε αυτόν τον κόσμο των πλασμάτων!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=Είμαστε τόσο ενθουσιασμένοι να σου πούμε περισσότερα για τα πλάσματα, για να σε βοηθήσουμε να αποφασίσεις ποιο θα ψηφίσεις.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=Για ποιο θα ήθελες να μάθεις;	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=Ο rascal είναι ένα σκανταλιάρικο πλάσμα που λατρεύει να παίζει Κρυφτό! 	###{locked="rascal"}
+dialog.rascal.button.2=Παραμονεύει σε υπόγεια ορυχεία, περιμένοντας να βρεθεί.	#
+dialog.rascal.button.3=Εάν εντοπίσεις τον ίδιο rascal τρεις φορές, θα σε ανταμείψει με ένα βραβείο, οπότε κράτα τα μάτια σου ανοιχτά!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=Το tuff golem είναι ένα άγαλμα με μια ανατροπή - ζωντανεύει! Όταν ξυπνήσει, θα περπατήσει τριγύρω και θα μαζέψει και θα κρατήσει οποιοδήποτε αντικείμενο συναντήσει.	###{Locked="tuff golem"}
+dialog.tuff.button.2=Μην ανησυχείς, θα επιστρέψει στο ίδιο σημείο που το τοποθέτησες όταν ξαναγίνει άγαλμα.	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=Το sniffer ήταν κάποτε μέρος του οικοσυστήματος του πάνω κόσμου. Τώρα μπορείς να επαναφέρεις το εξαφανισμένο πλάσμα αν καταφέρεις να βρεις το αυγό του!	###{locked="sniffer"}
+dialog.sniffer.button.2=Εκκόλαψε νέα sniffer, αναπαράγαγέ τα και μάθε πώς να κάνεις το εξαφανισμένο πλάσμα να ευδοκιμήσει για ακόμα μια φορά. Υπάρχουν σπόροι εκεί έξω που μόνο το sniffer μπορεί να βρει!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Καλώς ήρθες στην αρένα μάχης του Μικροσκοπικού Τζενς	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=Πόσα κύματα μπορείς να νικήσεις σε δύο λεπτά;	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=Παίρνεις πόντους όταν χτυπάς πλάσματα, και μπορείς να χρησιμοποιήσεις αυτούς τους πόντους για να αγοράσεις αναβαθμίσεις!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=Μην μπεις στον κόπο να πολεμήσεις άλλους παίκτες, δεν μπορείτε να βλάψετε ο ένας τον άλλον!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=Είδα ένα νέο πλάσμα εδώ κάτω. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=Εκεί είναι, σε εκείνη τη σπηλιά! Είναι ένας rascal και φαίνεται να είναι φιλικός.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=Αν το βρω τρεις φορές ίσως να μου δώσει ένα βραβείο.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=Έχω εντοπίσει τον rascal. Δεν είναι εχθρικός, απλά λίγο άτακτος.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=Ζει υπόγεια και λατρεύει να παίζει κρυφτό.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=Εάν η κοινότητα ψηφίσει υπέρ του rascal, μπορούμε να κάνουμε αυτό το παιχνίδι κρυφτού να κρατήσει για πάντα.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=Κράτα τα μάτια σου ανοιχτά για μυστικά!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=Υπάρχουν δύσκολες προκλήσεις, διασκεδαστικά μέρη για να παίξεις και τα πλάσματα από τις προηγούμενες ψήφους πλασμάτων κρύβονται σε όλο τον κόσμο. Μπορείς να τα βρεις όλα;	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=Ανταγωνίσου για τον καλύτερο χρόνο σου σε αυτήν την πρόκληση με τον ρίχτη που αναπηδά!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=Μπορείς να κάνεις μια καθαρή πτώση και να μη χτυπήσεις τίποτα;	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=Παρακολούθησε το χρονόμετρο και δες πόσο γρήγορα μπορείς να φτάσεις στη βάση! Έχεις ένα λεπτό για να δοκιμάσεις.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=Αυτό είναι άγαλμα ή καπελιέρα; Ω, είναι ζωντανό!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=Στάσου, θα μπορούσε αυτό να είναι ένα tuff golem;	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=Μπορούν να κρατήσουν ένα αντικείμενο και να μετακινηθούν στον χώρο σου!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=Είναι μια έκθεση τέχνης που μπορεί να κρατήσει το καπέλο σου; Ω, είναι ένα tuff golem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=Είχα ακούσει μόνο φήμες για το άγαλμα που ζωντανεύει.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=Αν οι παίκτες τα ψηφίσουν μπορούμε να ανοίξουμε μια έκθεση τέχνης.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=Κάνε μια περιήγηση στον κόσμο και δες τα αξιοθέατα!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=Μπορείς να βγεις από το βαγονέτο ανά πάσα στιγμή, αλλά αν το κάνεις, θα επιστρέψεις σε εμένα.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=Θέλεις να κάνεις παρκούρ μέχρι την κορυφή του rascal; Αυτό το παρκούρ είναι το πιο εύκολο εδώ. Παραμένει όμως λίγο ζόρικο!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=Πάτα σε λαμπερούς κύβους για να ορίσεις τα σημεία αποθήκευσης. Μην πέσεις στο έδαφος!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=Μόλις φτάσεις στην κορυφή, τράβηξε τον μοχλό για να χτυπήσεις το κουδούνι!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=Γίνε ένα με τη φύση καθώς κολυμπάς και σκαρφαλώνεις στην περιοχή του sniffer! Αυτό το παρκούρ είναι μέτριας δυσκολίας. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=Πάτα σε λαμπερούς κύβους για να ορίσεις τα σημεία αποθήκευσης. Μην πέσεις στο έδαφος!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=Μόλις φτάσεις στην κορυφή, τράβηξε τον μοχλό για να χτυπήσεις το κουδούνι!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=Πάγωσε! Τώρα ξεπάγωσε και αγωνίσου στο σπίτι του tuff golem! Αυτό το παρκούρ είναι το πιο δύσκολο εδώ μέσα. Εννοώ, πραγματικά δύσκολο.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=Πάτα σε λαμπερούς κύβους για να ορίσεις τα σημεία αποθήκευσης. Μην πέσεις στο έδαφος!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=Μόλις φτάσεις στην κορυφή, τράβηξε τον μοχλό για να χτυπήσεις το κουδούνι!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=Είναι ένα sniffer, νόμιζα ότι είχαν εξαφανιστεί.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=Αγαπούσαν τα φυτά και έβρισκαν σπόρους μυρίζοντας το έδαφος με τον πιο αξιολάτρευτο τρόπο.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=Αν η κοινότητα ψηφίσει τον sniffer, θα μπορούσαν να μας βοηθήσουν να βρούμε νέα φυτά.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=Αυτό το πλάσμα εκκολάφθηκε από ένα πολύ ασυνήθιστο αρχαίο αυγό.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=Φαίνεται να είναι ειδικός στα φυτά.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=Με όλα αυτά τα αυγά στοιχηματίζω ότι θα μπορούσαμε να τα βοηθήσουμε να ευδοκιμήσουν στον πάνω κόσμο για ακόμα μία φορά.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=Κανένα πρόβλημα	#
+bb.minigames.subtitle.join_queue=Μπήκες στην ουρά!	#
+bb.minigames.subtitle.in_queue=Βρίσκεσαι ήδη σε αυτή την ουρά.	#
+bb.minigames.actionbar.queue.1=Είσαι ο αρ.	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=από	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=στην ουρά για	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=Ψήφος πλασμάτων!	#
+bb.entry.subtitle=Έκδοση 0.21.4	#
+bb.entry.dialog.title=Εμφανίζεσαι ως Στηβ.	#
+bb.entry.dialog.body=Αυτός ο διακομιστής έχει απενεργοποιημένες τις προσαρμοσμένες εμφανίσεις και προσωπικότητες. Μπορείς να αλλάξεις σε μια διαφορετική εμφάνιση στην γκαρνταρόμπα.	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=Το Τέλος!	#
+bb.coaster.subtitle.end=Σε ευχαριστούμε για την οδήγηση!	#
+bb.coaster.title.exit=Έξοδος	#
+bb.coaster.subtitle.exit=Έφυγες από το βαγονέτο	#
+
+## Battle Arena System Messages
+bb.arena.title.start=Ετοιμάσου…	#
+bb.arena.subtitle.start=Κατάστρεψε όλα τα πλάσματα!	#
+bb.arena.actionbar.start=Έχεις δύο λεπτά!	#
+bb.arena.actionbar.score.1=§fΠόντοι:	#
+bb.arena.actionbar.score.2=§f- Χρόνος:	#
+bb.arena.wave=Κύμα	#
+bb.arena.wave.final=ΤΕΛΙΚΟ ΚΥΜΑ	#
+bb.arena.win=Νίκησες!	#
+bb.arena.subtitle.fight=Πολεμήστε!	#
+bb.arena.subtitle.wave_complete=Έγινε!	#
+bb.arena.title.game_over=Ο χρόνος έληξε!!!	#
+bb.arena.subtitle.no_wave_complete=Δεν ολοκληρώθηκαν κύματα	#
+bb.arena.subtitle.one_wave_complete=1 κύμα ολοκληρώθηκε	#
+bb.arena.actionbar.no_wave_complete=Καλύτερη τύχη την επόμενη φορά!	#
+bb.arena.subtitle.game_over=κύματα ολοκληρώθηκαν	#
+bb.arena.title.item_give=Τι ωραία!	#
+bb.arena.subtitle.item_give=Έδωσες σε όλους	#
+bb.arena.title.item_get=§aΈλαβες	#
+bb.arena.title.no_players=Δεν μπορώ να δώσω τώρα	#
+bb.arena.subtitle.no_players=Το παιχνίδι αρένας πρέπει να εκτελείται	#
+bb.arena.title.already_given=Έχει ήδη δοθεί	#
+bb.arena.subtitle.already_given=Μόνο μία φορά ανά αγώνα	#
+bb.arena.ending=Αρένα:	#
+bb.arena.score=Βαθμολογία:	#
+bb.arena.waves_completed=Κύματα που ολοκληρώθηκαν:	#
+bb.arena.player_score=Βαθμολογίες παικτών:	#
+bb.arena.message.buy_again=§cΤο έχεις ήδη αυτό το στοιχείο:	#
+bb.arena.message.downgrade_armor=§cΔεν μπορείς να αγοράσεις το φίλτρο ξανά	#
+bb.arena.message.downgrade_sword=§cΔεν μπορεί να υποβαθμίσει το σπαθί	#
+bb.arena.message.purchase.1=§aΑγοράστηκε	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=για	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cΔεν μπορείς να το αντέξεις οικονομικά ακόμα!	#
+bb.arena.message.death=Πέθανες!	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Σιδερένιο σπαθί	#
+bb.upgrade.weapon.diamond_sword=Διαμαντένιο σπαθί	#
+bb.upgrade.weapon.netherite_sword=Σπαθί από Εγκατίτη	#
+bb.upgrade.weapon.trident=Τρίαινα	#
+bb.upgrade.armor.iron_armor=Σιδερένια πανοπλία	#
+bb.upgrade.armor.diamond_armor=Διαμαντένια πανοπλία	#
+bb.upgrade.armor.netherite_armor=Πανοπλία Εγκατίτη	#
+bb.upgrade.consume.cookie=Μπισκότο	#
+bb.upgrade.consume.potion=Φίλτρο Σβελτάδας	#
+bb.upgrade.consume.apple=Χρυσό μήλο	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=Έπεσες!	#
+bb.waypoint.96=Τελευταία προσπάθεια!	#
+bb.waypoint.97=Τέλος παιχνιδιού!	#
+bb.waypoint.98=Ολοκληρώθηκε!	#
+bb.waypoint.100=Το παρκούρ ολοκληρώθηκε!	#
+bb.waypoint.subtitle.1=Σημεία που επιτεύχθηκαν	#
+bb.waypoint.subtitle.2=Χρόνος:	#
+bb.waypoint.subtitle.3=Προσπάθειες που απέμειναν:	#
+bb.waypoints=§fΣημεία:	#
+bb.time=§fΧρόνος:	#
+bb.tries=§f- Προσπάθειες που απέμειναν:	#
+bb.parkour=Παρκούρ:	#
+bb.parkour.finished=Το παρκούρ ολοκληρώθηκε!	#
+bb.in=σε	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=Ετοιμάσου!	#
+bb.dropper.subtitle.start=Εστίαση κάτω	#
+bb.dropper.actionbar.start=Πόσο γρήγορα μπορείς να φτάσεις στη βάση;	#
+bb.dropper.actionbar.time=Χρόνος:	#
+bb.dropper.title.lose=Ο χρόνος τελείωσε!	#
+bb.dropper.subtitle.lose=Ξέμεινες από χρόνο	#
+bb.dropper.actionbar.lose=Καλύτερη τύχη την επόμενη φορά!	#
+bb.dropper.title.win=δευτερόλεπτα	#
+bb.dropper.subtitle.win=Ο χρόνος σου	#
+bb.dropper.actionbar.win=Καλή δουλειά!	#
+bb.dropper.actionbar.personal_best=Νέο προσωπικό ρεκόρ!	#
+bb.dropper.message.portal=Ρίχτης Χωνιού:	#
+bb.dropper.message.finished=ολοκλήρωσες τον Ρίχτη σε	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Πίνακας κορυφαίων παικτών αρένας	#
+bb.leaderboard.dropper=Πίνακας κορυφαίων παικτών Ρίχτη	#
+bb.leaderboard.parkour=Πίνακας κορυφαίων παικτών παρκούρ	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=Κλείσιμο παραθύρου	#
+
+## Voting Text System Messages
+bb.vote.already_voted=Έχεις ήδη ψηφίσει	#
+bb.vote.change_vote=Η ψήφος άλλαξε	#
+bb.vote.voted=Ψήφισες	#
+bb.vote.received=Η ψήφος ελήφθη!	#
+
+###
+action.hint.exit.mv:livetrain=Σε ευχαριστούμε για την οδήγηση!	#

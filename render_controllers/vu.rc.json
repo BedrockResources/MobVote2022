@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"render_controllers": {
+		"controller.render.vu": {
+			"arrays": {
+				"geometries": {
+					"array.geos": ["geometry.default"]
+				},
+
+				"textures": {
+					"array.textures": ["texture.default", "texture.talk"]
+				}
+			},
+
+			"geometry": "array.geos[query.variant]",
+
+			"materials": [ { "*": "material.default"} ],
+
+			"textures": [ "array.textures[query.variant]"]
+		}
+	}
+}

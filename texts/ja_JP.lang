@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=マネージャー	#
+
+## Name
+name.agnes=Tiny Agnes	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Tiny Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Tiny Vu	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§f次に投票 :	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§f電車の行き先 :	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT LIVE	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=ジェットコースター	#
+bb.dropper.title=ホッパー ドロッパー	#
+bb.arena.title=ジェンスのコンバット アリーナ	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Snifferパルクール	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Tuff Golemパルクール	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Rascalパルクール	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=OK	#
+bb.dialog.button.queue=キューに参加	#
+bb.dialog.button.leaderboard=ランキングを見る	#
+button.close=閉じる	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=戻る	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=奇妙な水中にある卵、採掘場にいる不気味な存在 ... それに、動く帽子 ? モブ投票へようこそ ! 僕の名前は Tiny Vu だよ。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=この投票は、Minecraft Live が配信されるまでの 24 時間で利用可能になるよ。その後は投票はストップして、この場所は永遠に消えてしまうんだ ! この 24 時間は、君が変化を与えられるチャンスなのさ !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Tiny Jens は投票について、Tiny Agnes はモブについて教えてくれるよ ! それから、僕たちのミニゲームも試してみて !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=やあ ! 僕の名前は Tiny Jens ! 投票へようこそ !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=君の投票が、未来の Minecraft を形成するんだ! Mojang のディベロッパーたちが次に開発すべきモブの選定を手伝ってくれるかな ?  アイデアは 3 つ用意してるんだけど、選べるのは 1 つだけ。たった 1 つだけなのさ ! レバーを引いて、お気に入りのモブに投票しよう。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=投票内容はいつでも変更ができるけど、何回レバーを引いたり投票内容を変えたりしたって、カウントされるのは最後の投票内容だけなんだ。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=ハロー、私は Tiny Agnes ! このモブの世界へようこそ !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=どのモブに投票するのかを決めるために、もっとモブについて教えてあげたいと思ってるのだ !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=どれについて学びたい ?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=rascalはかくれんぼをプレイするのが大好きないたずら好きの暴徒で !	###{locked="rascal"}
+dialog.rascal.button.2=それは地下の採掘場でウロウロしながら、発見されるのを待ってるんだ。	#
+dialog.rascal.button.3=かくれんぼが大好きでいたずら好きのモブ! この rascal は地下鉱山をうろつき、見つけてもらうのをずっと待っています。同じ rascal を 3 回見つけることができたらご褒美がもらえるので、集中して探し続けましょう!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=tuff golemはひねりを加えた彫像です - それは生き生きとしています!目が覚めると、歩き回り、拾い上げ、出くわしたアイテムを保持します。	###{Locked="tuff golem"}
+dialog.tuff.button.2=心配はいりません。像の姿に戻る時、あなたが設置した場所と同じ位置に戻ります。	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=snifferはかつてオーバーワールドの生態系の一部でした。今、あなたはその卵を見つけることができれば、絶滅した暴徒を取り戻すことができます!	###{locked="sniffer"}
+dialog.sniffer.button.2=Hatch new sniffers, breed them, and figure out how to make the extinct mob thrive once more. There are seeds out there that only the sniffer can find!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=ヘイヘイ ! Tiny Jens のコンバット アリーナへようこそ。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=2 分間でいくつのウェーブをクリアすることができるかな ?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=モブにヒットさせるとポイントがゲットできて、そのポイントでアップグレードの購入ができるんだ !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=他のプレイヤーと戦う必要はないよ、お互いを傷付けることはできないからね !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=ここで新たなモブを見かけました。 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=そこには、あの洞窟がある!rascalで、フレンドリーなようです。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=それを 3 回見つけたら、賞品がもらえるかな。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=私はrascalを見つけました。それは敵対的ではなく、ちょっといたずらです。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=地下に住んでいて、かくれんぼをするのが大好きです。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=コミュニティがrascalに投票すれば、このかくれんぼのゲームを永遠に続けることができます。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=秘密を見逃さないようにしよう !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=この世界中には、難しいチャレンジ、楽しく遊べる場所や、過去のモブ投票で登場したモブが隠されているんだ。君は全部見つけることができるかな ?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=このバウンティ ドロッパー チャレンジでベスト タイムを競い合いましょう !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=何にも当たらずにクリーン ドロップできるか ?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=タイマーを確認しながら、底までどれくらいの速さで行けるのか試してみて ! 制限時間は 1 分よ。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=これは像 ? それとも帽子置き ? あっ、生きてる !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=待って、これはtuff golemでしょうか?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=彼らはアイテムを持って、動き回ることができるだ !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=それはあなたの帽子を保持することができる美術展ですか?ああ、それはtuff golemです!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=動き出す像についての噂を聞いたことがあるんだ。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=プレイヤーがこれに投票すれば、美術展を開くことができるよ。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=世界中で旅に出て、色んな景色を目にしよう !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=いつでもマインクラフトをやめることはできるけど、もしやめたら僕の所へ戻って来てくれ。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=rascalの頂上にパルクールをしたいですか?このパルクールはここで最も簡単です。まだ少しトリッキー!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=光るブロックに乗ってセーブ ポイントを設定しよう。地面に落ちないようにね !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=頂上に着いたら、レバーを引いて鐘を鳴らすんだよ !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=sniffer の領域を泳いだり登ったりして自然と一体になりましょう ! このパルクールは中程度の難易度です。 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=光るブロックに乗ってセーブ ポイントを設定しよう。地面に落ちないようにね !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=頂上に着いたら、レバーを引いて鐘を鳴らすんだよ !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=凍る！今、凍結を解除し、tuff golemの家を駆け抜ける!このパルクールはここで一番難しいです。みたいな、本当に難しい。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=光るブロックに乗ってセーブ ポイントを設定しよう。地面に落ちないようにね !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=頂上に着いたら、レバーを引いて鐘を鳴らすんだよ !	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=それはsnifferです、私はこれらが絶滅したと思った。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=彼らは植物を愛し、とっても可愛いやり方で地面を嗅ぎながら種を見つけていたのさ。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=コミュニティが sniffer に投票すれば、新しい植物を見つけるのを手伝ってくれるかもしれません。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=このモブは、とっても珍しい古代の卵から孵化したんだ。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=植物専門家みたいだね。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=これだけ卵があれば、再びオーバーワールドで健康に育つのに役立つはずだよね。	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=問題ありません	#
+bb.minigames.subtitle.join_queue=キューに参加しました !	#
+bb.minigames.subtitle.in_queue=既にこのキューに参加しています。	#
+bb.minigames.actionbar.queue.1=君はノーだ。	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=除外	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=キュー参加中 :	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=モブ投票 !	#
+bb.entry.subtitle=バージョン 0.21.4	#
+bb.entry.dialog.title=あなたはスティーブとして表示されています。	#
+bb.entry.dialog.body=このサーバーではカスタム スキンとペルソナが無効です。更衣室で別のスキンに切り替えることができます。	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=果ての世界 !	#
+bb.coaster.subtitle.end=乗っていただきありがとうございます !	#
+bb.coaster.title.exit=終了	#
+bb.coaster.subtitle.exit=あなたがマインクラフトを去りました	#
+
+## Battle Arena System Messages
+bb.arena.title.start=位置に着いて …	#
+bb.arena.subtitle.start=モブ全員を倒そう !	#
+bb.arena.actionbar.start=あと 2 分です !	#
+bb.arena.actionbar.score.1=§fポイント :	#
+bb.arena.actionbar.score.2=§f- 時間 :	#
+bb.arena.wave=手を振る	#
+bb.arena.wave.final=最終ウェーブ	#
+bb.arena.win=勝利 !	#
+bb.arena.subtitle.fight=戦え !	#
+bb.arena.subtitle.wave_complete=すべて完了 !	#
+bb.arena.title.game_over=時間切れです !!!	#
+bb.arena.subtitle.no_wave_complete=ウェーブをクリアしていません	#
+bb.arena.subtitle.one_wave_complete=1 ウェーブ クリア	#
+bb.arena.actionbar.no_wave_complete=残念だったな !	#
+bb.arena.subtitle.game_over=クリアしたウェーブ数	#
+bb.arena.title.item_give=素晴らしい!	#
+bb.arena.subtitle.item_give=全員に与えました	#
+bb.arena.title.item_get=§a受け取り済み	#
+bb.arena.title.no_players=現在、与えることはできません	#
+bb.arena.subtitle.no_players=アリーナ ゲームが実行されている必要があります	#
+bb.arena.title.already_given=既に与えています	#
+bb.arena.subtitle.already_given=1 マッチにつき 1 回のみ	#
+bb.arena.ending=アリーナ :	#
+bb.arena.score=スコア :	#
+bb.arena.waves_completed=クリアしたウェーブ数 :	#
+bb.arena.player_score=プレイヤー スコア :	#
+bb.arena.message.buy_again=§c既に所持しています	#
+bb.arena.message.downgrade_armor=§c再びポーションを購入することはできません	#
+bb.arena.message.downgrade_sword=§c剣をダウンロードすることができません	#
+bb.arena.message.purchase.1=§a購入済み	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=を	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cこれを購入する資金が足りません !	#
+bb.arena.message.death=死んでしまった !	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=鉄の剣	#
+bb.upgrade.weapon.diamond_sword=ダイヤモンドの剣	#
+bb.upgrade.weapon.netherite_sword=ネザライトの剣	#
+bb.upgrade.weapon.trident=トライデント	#
+bb.upgrade.armor.iron_armor=鉄の防具	#
+bb.upgrade.armor.diamond_armor=ダイヤモンドの防具	#
+bb.upgrade.armor.netherite_armor=ネザライトの防具	#
+bb.upgrade.consume.cookie=クッキー	#
+bb.upgrade.consume.potion=スピードのポーション	#
+bb.upgrade.consume.apple=金のリンゴ	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=落ちました !	#
+bb.waypoint.96=最後のトライ !	#
+bb.waypoint.97=ゲーム オーバー!	#
+bb.waypoint.98=完了 !	#
+bb.waypoint.100=パルクール完了 !	#
+bb.waypoint.subtitle.1=経由地点に到達	#
+bb.waypoint.subtitle.2=時間 :	#
+bb.waypoint.subtitle.3=残りのトライ数:	#
+bb.waypoints=§f経由地点 :	#
+bb.time=§f時間 :	#
+bb.tries=§f- 残りのトライ数 :	#
+bb.parkour=パルクール :	#
+bb.parkour.finished=パルクール完了 !	#
+bb.in=in	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=行くよ !	#
+bb.dropper.subtitle.start=下を見る	#
+bb.dropper.actionbar.start=どれくらい速く底へたどり着けるでしょうか ?	#
+bb.dropper.actionbar.time=時間 :	#
+bb.dropper.title.lose=時間切れです !	#
+bb.dropper.subtitle.lose=時間切れです	#
+bb.dropper.actionbar.lose=残念だったな !	#
+bb.dropper.title.win=秒	#
+bb.dropper.subtitle.win=自分のタイム	#
+bb.dropper.actionbar.win=お見事 !	#
+bb.dropper.actionbar.personal_best=自己ベスト更新 !	#
+bb.dropper.message.portal=ホッパー ドロッパー:	#
+bb.dropper.message.finished=ドロッパーを完了 :	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=アリーナ ランキング	#
+bb.leaderboard.dropper=ドロッパー ランキング	#
+bb.leaderboard.parkour=パルクール ランキング	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=ウィンドウを閉じる	#
+
+## Voting Text System Messages
+bb.vote.already_voted=既に投票済みです	#
+bb.vote.change_vote=投票が変更されました	#
+bb.vote.voted=投票しました	#
+bb.vote.received=投票を受け取りました !	#
+
+###
+action.hint.exit.mv:livetrain=乗っていただきありがとうございます !	#

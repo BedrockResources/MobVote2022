@@ -1,0 +1,41 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:vu",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/vu",
+				"talk": "textures/entity/vu_talk"
+			},
+			"geometry": {
+				"default": "geometry.vu"
+			},
+
+			"render_controllers": ["controller.render.vu"],
+
+			"scripts":{
+				"animate":["vu_controller", "particle_controller"]
+			},
+
+			"animations":{
+				"idle_x1": "animation.vu.Idle_x1",
+				"idle_x2": "animation.vu.Idle_x2",
+				"idle_x3": "animation.vu.Idle_x3",
+				"idle_x4": "animation.vu.Idle_x4",
+				"wave_x3": "animation.vu.Wave_x3",
+				"wave_x6": "animation.vu.Wave_x6",
+				"heyo": "animation.vu.Heyo",
+				"talk": "animation.vu.Talk",
+				"start_game":"animation.vu.Start_Game",
+
+				"default_particle_animation": "animation.particle.default",
+				"vu_controller": "controller.animation.vu",
+				"particle_controller":"controller.animation.particle"
+			},
+			"particle_effects": {"default": "mv:talk_icon"}
+		}
+	}
+}

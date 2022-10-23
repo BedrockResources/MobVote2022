@@ -1,0 +1,7 @@
+{
+	"individual_event_sounds": {
+		"events": {
+            "dropper.finish" : {"sound": "dropper.finish", "volume" : 1.0, "pitch" : 1.0 }
+        }
+     }
+}

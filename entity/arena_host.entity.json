@@ -1,0 +1,39 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "dev3:arena_host",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/arena_host",
+				"smile": "textures/entity/arena_host_smile"
+			},
+			"geometry": {
+				"default": "geometry.arena_host"
+			},
+			"render_controllers": ["controller.render.test_entity_2"],
+			"scripts":{
+				"animate":[
+					"arena_host_controller",
+					"particle_controller"  
+				]
+			},
+			"animations":{
+				"static": "animation.arena_host.Static",
+				"idle": "animation.arena_host.Idle", 
+				"idle_b": "animation.arena_host.Idle_B",
+				"idlebreak_a": "animation.arena_host.IdleBreak_A",
+				"idlebreak_b": "animation.arena_host.IdleBreak_B",
+				"idlebreak_c": "animation.arena_host.IdleBreak_C",
+				"interact_a": "animation.arena_host.Interact_A",
+				"poop": "animation.arena_host.Interact_B",
+				"indicator": "animation.particle.indicator",
+				"arena_host_controller": "controller.animation.arena_host",
+				"particle_controller":"controller.animation.particle"
+			},
+			"particle_effects": {"indicator": "dev3:indicator"}
+		}
+	}
+}

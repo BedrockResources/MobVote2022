@@ -1,0 +1,28 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:billboard1",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/invisible"
+			},
+			"geometry": {
+				"default": "geometry.billboard"
+			},
+			"render_controllers": ["controller.render.default"],
+			"scripts":{
+				"animate":[
+					"particle_controller"  
+				]
+			},
+			"animations":{
+				"default_particle_animation": "animation.particle.default",
+				"particle_controller":"controller.animation.particle"
+			},
+			"particle_effects": {"default": "mv:billboard1"}
+		}
+	}
+}

@@ -1,0 +1,283 @@
+{
+  "badlands1": {
+    "brightness_gamma": 0.550,
+    "isotropic": false,
+    "sound": "stone",
+    "textures": {
+      "down": "badlands1_bottom",
+      "side": "badlands1_side",
+      "up": "badlands1_top"
+    }
+  },
+  "badlands1": {
+    "brightness_gamma": 0.550,
+    "isotropic": false,
+    "sound": "stone",
+    "textures": {
+      "down": "badlands2_bottom",
+      "side": "badlands2_side",
+      "up": "badlands2_top"
+    }
+  },
+  "badlands1": {
+    "brightness_gamma": 0.550,
+    "isotropic": false,
+    "sound": "stone",
+    "textures": {
+      "down": "badlands3_bottom",
+      "side": "badlands3_side",
+      "up": "badlands3_top"
+    }
+  },
+  "badlands4": {
+    "brightness_gamma": 0.550,
+    "isotropic": false,
+    "sound": "stone",
+    "textures": {
+      "down": "badlands4_bottom",
+      "side": "badlands4_side",
+      "up": "badlands4_top"
+    }
+  },
+  "stone": {
+    "sound": "stone",
+    "textures": {
+      "down": "stone_bottom",
+      "side": "stone_side",
+      "up": "stone_top"
+    }
+  },
+  "stone_cave": {
+    "sound": "stone",
+    "textures": {
+      "down": "stone_cave_top",
+      "side": "stone_cave_side",
+      "up": "stone_cave_top"
+    }
+  },
+  "stone2": {
+    "sound": "stone",
+    "textures": {
+      "down": "stone2_side",
+      "side": "stone2_side",
+      "up": "stone2_top"
+    }
+  },
+  "stone2_cave": {
+    "sound": "stone",
+    "textures": {
+      "down": "stone2_cave_top",
+      "side": "stone2_cave_side",
+      "up": "stone2_cave_top"
+    }
+  },
+  "stone3": {
+    "sound": "stone",
+    "textures": {
+      "down": "stone3_side",
+      "side": "stone3_side",
+      "up": "stone3_top"
+    }
+  },
+  "stone3_cave": {
+    "sound": "stone",
+    "textures": {
+      "down": "stone3_cave_top",
+      "side": "stone3_cave_side",
+      "up": "stone3_cave_top"
+    }
+  },
+  "stone4": {
+    "brightness_gamma": 0.550,
+    "isotropic": false,
+    "sound": "stone",
+    "textures": "stone4"
+  },
+  "stone4_cave": {
+    "sound": "stone",
+    "textures": {
+      "down": "stone4_cave_top",
+      "side": "stone4_cave_side",
+      "up": "stone4_cave_top"
+    }
+  },
+  "stone_snow": {
+    "sound": "snow",
+    "textures": {
+      "down": "stone_snow_top",
+      "side": "stone_snow_side",
+      "up": "stone_snow_top"
+    }
+  },
+  "grass": {
+    "sound": "grass",
+    "textures": {
+      "down": "dirt",
+      "side": "grass_side",
+      "up": "grass_top"
+    }
+  },
+  "sand": {
+    "brightness_gamma": 0.550,
+    "isotropic": false,
+    "sound": "sand",
+    "textures": {
+      "down": "sand_top",
+      "side": "sand_side",
+      "up": "sand_top"
+    }
+  },
+  "sand2": {
+    "brightness_gamma": 0.550,
+    "isotropic": false,
+    "sound": "sand",
+    "textures": {
+      "down": "sand2_bottom",
+      "side": "sand2_side",
+      "up": "sand2_top"
+    }
+  },
+  "sand3": {
+    "brightness_gamma": 0.550,
+    "isotropic": false,
+    "sound": "sand",
+    "textures": {
+      "down": "sand3_side",
+      "side": "sand3_side",
+      "up": "sand3_top"
+    }
+  },
+  "sand4": {
+    "brightness_gamma": 0.550,
+    "isotropic": false,
+    "sound": "sand",
+    "textures": "sand4"
+  },
+  "dirt": {
+    "isotropic": false,
+    "sound": "gravel",
+    "textures": "dirt"
+  },
+  "dirt2": {
+    "isotropic": false,
+    "sound": "gravel",
+    "textures": {
+      "down": "dirt2_bottom",
+      "side": "dirt2_side",
+      "up": "dirt2_top"
+    }
+  },
+  "dirt3": {
+    "isotropic": false,
+    "sound": "gravel",
+    "textures": {
+      "down": "dirt3_bottom",
+      "side": "dirt3_side",
+      "up": "dirt3_top"
+    }
+  },
+  "dirt4": {
+    "isotropic": false,
+    "sound": "gravel",
+    "textures": {
+      "down": "dirt4_bottom",
+      "side": "dirt4_side",
+      "up": "dirt4_top"
+    }
+  },
+  "dirt5": {
+    "isotropic": false,
+    "sound": "gravel",
+    "textures": "dirt5"
+  },
+  "log_oak_cave": {
+    "sound": "wood",
+    "textures": {
+      "down": "log_oak_cave_top",
+      "side": "log_oak_cave_side",
+      "up": "log_oak_cave_top"
+    }
+  },
+  "planks_oak_cave": {
+    "sound": "wood",
+    "textures": "planks_oak_cave"
+  },
+  "leaves_corner_up": {
+    "sound": "grass",
+    "textures": {
+      "up": "leaves_corner_up_top",
+      "west": "leaves_corner_up_west",
+      "south": "leaves_corner_up_south",
+      "east": "leaves_blank",
+      "north": "leaves_blank",
+      "down": "leaves_blank"
+    }
+  },
+  "leaves_corner_down": {
+    "sound": "grass",
+    "textures": {
+      "up": "leaves_blank",
+      "west": "leaves_corner_down_west",
+      "south": "leaves_corner_down_south",
+      "east": "leaves_blank",
+      "north": "leaves_blank",
+      "down": "leaves_corner_down_bottom"
+    }
+  },
+  "leaves_mid_up": {
+    "sound": "grass",
+    "textures": {
+      "up": "leaves_mid_up",
+      "west": "leaves_blank",
+      "south": "leaves_mid_up",
+      "east": "leaves_blank",
+      "north": "leaves_blank",
+      "down": "leaves_blank"
+    }
+  },
+  "leaves_mid_down": {
+    "sound": "grass",
+    "textures": {
+      "up": "leaves_blank",
+      "west": "leaves_blank",
+      "south": "leaves_mid_down_south",
+      "east": "leaves_blank",
+      "north": "leaves_blank",
+      "down": "leaves_mid_down_bottom"
+    }
+  },
+  "leaves_peak": {
+    "sound": "grass",
+    "textures": {
+      "up": "leaves_peak_top",
+      "side": "leaves_peak_side",
+      "down": "leaves_peak_blank"
+    }
+  },
+  "cobblestone": {
+    "sound": "stone",
+    "textures": {
+      "up": "cobblestone_top",
+      "side": "cobblestone_side",
+      "down": "cobblestone_top"
+    }
+  },
+  "snow": {
+    "isotropic": false,
+    "sound": "snow",
+    "textures": {
+      "up": "snow",
+      "side": "snow_side",
+      "down": "snow_bottom"
+    }
+  },
+  "passthrough_light_gray_concrete": {
+    "sound": "stone"
+  },
+  "passthrough_gray_concrete": {
+    "sound": "stone"
+  },
+  "passthrough_cyan_concrete": {
+    "sound": "stone"
+  }
+}

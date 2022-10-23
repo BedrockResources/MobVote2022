@@ -1,0 +1,52 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.parkour_vu":{
+			"initial_state": "default",
+			"states":{
+				"default": { 
+					"animations": [ "idle_loop_x2"],
+					"transitions": [{"left_right_jump": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}] 
+				},
+				
+				"left_right_jump": { 
+					"animations": ["left_right_jump"],
+					"transitions": [{"idle_2": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+				"idle_2": {
+					"animations": ["idle_loop_x4"],
+					"transitions": [{"jump_hat_pop": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+				"jump_hat_pop":{
+					"animations": ["jump_hat_pop"],
+					"transitions": [{"idle_3": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+				"idle_3": {
+					"animations": ["idle_loop_x4"],
+					"transitions": [{"jump_hat_spin": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+				"jump_hat_spin":{
+					"animations": ["jump_hat_spin"],
+					"transitions": [{"default": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+				
+				"talk":{
+					"animations": ["talk"],
+					"transitions": [{"default": "query.variant == 0"},
+									{"start_game": "query.variant == 2"}]
+				},
+
+				"start_game":{
+					"animations": ["start_game"],
+					"transitions": [{"default": "query.any_animation_finished"}]
+				}
+			} 
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:billboard_fireplace",
+			"materials": {
+				"default": "fireplace"
+			},
+			"textures": {
+				"default": "textures/entity/fireplace.tga"
+			},
+			"geometry": {
+				"default": "geometry.fireplace"
+			},
+			"render_controllers": ["controller.render.fireplace"]
+		}
+	}
+}

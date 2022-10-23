@@ -1,0 +1,19 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "mv:tiny_chest_minecart",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "minecart"
+      },
+      "textures": {
+        "default": "textures/entity/minecart_chest"
+      },
+      "geometry": {
+        "default": "geometry.tiny_chest_minecart"
+      },
+      "render_controllers": [ "controller.render.minecart" ]
+    }
+  }
+}

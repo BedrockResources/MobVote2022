@@ -1,0 +1,43 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:snorkel_jens",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/snorkel_jens",
+				"talk": "textures/entity/snorkel_jens_talk"
+			},
+			"geometry": {
+				"default": "geometry.snorkel_jens"
+			},
+
+			"render_controllers": ["controller.render.snorkel_jens"],
+
+			"scripts":{
+				"animate":["snorkel_jens_controller", "particle_controller"]
+			},
+
+			"animations":{
+				"heyo": "animation.snorkel_jens.Heyo",
+				"idle_x1": "animation.snorkel_jens.Idle_x1",
+				"idle_x2": "animation.snorkel_jens.Idle_x2",
+				"idle_x3": "animation.snorkel_jens.Idle_x3",
+				"idle_x4": "animation.snorkel_jens.Idle_x4",
+				"wave_x3": "animation.snorkel_jens.Wave_x3",
+				"wave_x6": "animation.snorkel_jens.Wave_x6",
+				"snorkel": "animation.snorkel_jens.Snorkel_Idle_x3",
+				"snorkel_bubbles": "animation.snorkel_jens.Snorkel_Idle_x3_Bubbles",
+				"talk": "animation.snorkel_jens.Talk",
+				"start_game":"animation.snorkel_jens.Start_Game",
+
+				"default_particle_animation": "animation.particle.default",
+				"snorkel_jens_controller": "controller.animation.snorkel_jens",
+				"particle_controller":"controller.animation.particle"
+			},
+			"particle_effects": {"default": "mv:talk_icon"}
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.detective_vu":{
+			"initial_state": "default",
+			"states":{
+				"default": { 
+					"animations": [ "idle_x3"],
+					"transitions": [{"look_around": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}] 
+				},
+				
+				"look_around": { 
+					"animations": ["look_around"],
+					"transitions": [{"default": "query.any_animation_finished"},
+									{"talk": "query.variant == 1"}]
+				},
+
+				"talk":{
+					"animations": ["talk"],
+					"transitions": [{"default": "query.variant == 0"},
+									{"start_game": "query.variant == 2"}]
+				},
+
+				"start_game":{
+					"animations": ["talk"],
+					"transitions": [{"default": "query.any_animation_finished"}]
+				}
+
+			} 
+		}
+	}
+}

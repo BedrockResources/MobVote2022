@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=Manažer	#
+
+## Name
+name.agnes=Maličká Agnes	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Maličký Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Maličký Vu	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§fHlasujte pro	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§fVLAK DO	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT LIVE	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=Horská dráha	#
+bb.dropper.title=Násypka podavače	#
+bb.arena.title=Jensova bojová aréna	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Čichačův (Snifferův) parkur	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Parkur tufového golema (Tuff Golem)	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Rošťácký (Rascalův) Parkur	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=Dobře	#
+bb.dialog.button.queue=Připojit se ke frontě	#
+bb.dialog.button.leaderboard=Zobrazit žebříček	#
+button.close=Zavřít	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=Zpět	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=Podivná podvodní vejce, děs přítomen v dolech a... pohyblivé klobouky? Vítejte v hlasování o stvoření! Jsem Maličký Vu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=Toto hlasování bude k dispozici po dobu 24 hodin, dokud bude Minecraft Live vysílán, no, živě. Pak se hlasování zastaví a toto místo navždy zmizí! Těchto 24 hodin je vaší šancí udělat změnu!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Promluvte si s Maličkým Jensem a zjistěte, jak hlasovat, a s Maličkou Agnes, abyste slyšeli vše o stvořeních! A vyzkoušejte naše minihry!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=Ahoj! Jsem Maličký Jens! Vítejte v hlasování!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=Váš hlas určí budoucnost Minecraftu! Pomozte nám vývojářům z Mojang vybrat, jaké stvoření bychom měli dále vyvíjet. Máme tři nápady, ale můžeme si vybrat jen jeden. Může to být jen jeden! Zatáhněte za páku a hlasujte pro své oblíbené stvoření.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=Svůj hlas můžete kdykoli změnit, nezáleží ovšem na tom, kolikrát zatáhnete za páku nebo změníte svůj hlas, počítá se pouze váš poslední hlas.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=Ahoj, já jsem Maličká Agnes! Vítejte v tomto světě stvoření!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=Těšíme se, že vám toho o stvořeních řekneme více, abychom vám pomohli se rozhodnout, pro které z nich hlasovat.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=O kterém z nich byste se chtěli něco dozvědět?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=Rošťák (rascal) je zlomyslné stvoření, které miluje hru na schovávanou! 	###{locked="rascal"}
+dialog.rascal.button.2=Číhá v podzemních dolech a čeká, až ho najdete.	#
+dialog.rascal.button.3=Pokud zahlédnete stejného rošťáka (rascala) třikrát, odmění vás, takže mějte oči na stopkách!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=Tufový golem (tuff golem) je socha s nečekaným zvratem - ožívá! Když se probudí, chodí kolem, zvedá a drží předměty, na které narazí.	###{Locked="tuff golem"}
+dialog.tuff.button.2=Nebojte se, když se změní zpět na sochu, vrátí se na místo, kam jste ho umístili.	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=Čichač (sniffer) byl kdysi součástí ekosystému běžného světa. Nyní můžete toto vyhynulé stvoření přivést zpět, najdete-li jeho vejce!	###{locked="sniffer"}
+dialog.sniffer.button.2=Nechte si vylíhnout nového čichače (sniffera), odchovejte ho a zjistěte, jak by mohlo vyhynulé stvoření opět prospívat. Tam venku jsou semena, která může najít pouze čichač (sniffer)!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Hej, hej! Vítejte v bojové aréně Maličkého Jense.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=Kolik vln dokážete porazit za dvě minuty?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=Zasažením stvoření získáte body, které lze použít k nákupu vylepšení!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=Nevyčerpávejte se bojem s ostatními hráči, nemůžete si navzájem ublížit!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=Viděl jsem tady dole nové stvoření. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=Tady to je, v té jeskyni! Je to rošťák (rascal) a zdá se, že je přátelský.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=Pokud ho najdu třikrát, možná mi dá odměnu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=Zahlédl jsem rošťáka (rascala). Není nepřátelský, jen trochu zlomyslný.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=Žije v podzemí a miluje hru na schovávanou.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=Pokud komunita bude hlasovat pro rošťáka (rascala), můžeme tuto hru na schovávanou hrát navždy.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=Mějte oči na stopkách, mohou tady být tajemství!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=Po celém světě naleznete obtížné výzvy, zábavná místa k hraní a skrytá stvoření z dřívějších hlasování o stvořeních. Najdete je všechny?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=Soutěžte o svůj nejlepší čas v této skákací podavačové výzvě!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=Dokážete udělat čisté upuštění a nic nezasáhnout?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=Sledujte časovač a uvidíte, jak rychle jste schopni se dostat dno! Máte jednu minutu na vyzkoušení.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=Je to socha nebo držák na klobouky? Ach, je to živé!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=Počkejte, mohl by to být tufový golem (tuff golem)?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=Mohou držet předmět a pohybovat se po vašem domě!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=Je to umělecký předmět, na který si můžete zavěsit klobouk? Ach, je to tufový golem (tuff golem)!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=Slyšel jsem jen zvěsti o soše, která ožívá.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=Pokud pro ně budou hráči hlasovat, budeme moci otevřít uměleckou výstavu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=Vydejte se na prohlídku světa a podívejte se na památky!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=Důlní vozík můžete kdykoli opustit, ale pokud tak učiníte, vrátíte se ke mně.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=Chcete parkurovat na rošťákovi (rascalovi)? Tento parkur je tady nejjednodušší. I tak ovšem může být trochu záludný!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=Stoupněte si na zářící bloky, abyste nastavili body uložení. Nespadněte na zem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=Jakmile budete nahoře, zatáhněte za páku, aby se rozezněl zvonek!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=Splyňte s přírodou při plavání a prolézání čichavcovy (snifferovy) domény! Tento parkur je středně obtížný. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=Stoupněte si na zářící bloky, abyste nastavili body uložení. Nespadněte na zem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=Jakmile budete nahoře, zatáhněte za páku, aby se rozezněl zvonek!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=Zastavte jej! A teď jej spustěte a proběhněte se domovem tufového golema (tuff golem)! Tento parkur je tady nejtěžší. Myslím opravdu těžký.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=Stoupněte si na zářící bloky, abyste nastavili body uložení. Nespadněte na zem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=Jakmile budete nahoře, zatáhněte za páku, aby se rozezněl zvonek!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=Je to čichač (sniffer), myslel jsem, že vyhynuly.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=Milovali rostliny a hledali semena očicháváním půdy tím nejroztomilejším způsobem.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=Pokud by komunita hlasovala pro čichavce (sniffera), mohl by nám pomoci najít nové rostliny.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=Toto stvoření se vylíhlo z nejneobvyklejšího starodávného vejce.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=Zdá se, že je odborníkem na rostliny.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=Vsadím se, že se všemi těmito vejci bychom jim v běžném světě mohli pomoci znovu prospívat.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=Žádný problém	#
+bb.minigames.subtitle.join_queue=Zařazen do fronty!	#
+bb.minigames.subtitle.in_queue=V této frontě již čekáte.	#
+bb.minigames.actionbar.queue.1=Nejste žádný.	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=nejsou k dostání	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=ve frontě na	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=Hlasujte pro stvoření!	#
+bb.entry.subtitle=Verze 0.21.4	#
+bb.entry.dialog.title=Jste zobrazeni jako Steve	#
+bb.entry.dialog.body=Tento server má zakázány vlastní skiny a osobnosti. Na jiný skin můžete přepnout v šatně.	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=Konec!	#
+bb.coaster.subtitle.end=Děkujeme za jízdu!	#
+bb.coaster.title.exit=Konec	#
+bb.coaster.subtitle.exit=Opustili jste důlní vozík	#
+
+## Battle Arena System Messages
+bb.arena.title.start=Připravte se...	#
+bb.arena.subtitle.start=Zničte všechna stvoření!	#
+bb.arena.actionbar.start=Máte dvě minuty!	#
+bb.arena.actionbar.score.1=§fBody:	#
+bb.arena.actionbar.score.2=§f- Čas:	#
+bb.arena.wave=Vlna	#
+bb.arena.wave.final=ZÁVĚREČNÁ VLNA	#
+bb.arena.win=Zvítězili jste!	#
+bb.arena.subtitle.fight=Do boje!	#
+bb.arena.subtitle.wave_complete=Vše hotovo!	#
+bb.arena.title.game_over=Čas vypršel!!!	#
+bb.arena.subtitle.no_wave_complete=Nebyly dokončeny žádné vlny	#
+bb.arena.subtitle.one_wave_complete=1 vlna dokončena	#
+bb.arena.actionbar.no_wave_complete=Hodně štěstí příště!	#
+bb.arena.subtitle.game_over=vlny dokončeny	#
+bb.arena.title.item_give=Jak hezké!	#
+bb.arena.subtitle.item_give=Dali jste všem	#
+bb.arena.title.item_get=§aZískali jste	#
+bb.arena.title.no_players=Nyní nelze dát	#
+bb.arena.subtitle.no_players=Hra v aréně musí být spuštěna	#
+bb.arena.title.already_given=Již bylo dáno	#
+bb.arena.subtitle.already_given=Pouze jednou za zápas	#
+bb.arena.ending=Aréna:	#
+bb.arena.score=Skóre:	#
+bb.arena.waves_completed=Dokončené vlny:	#
+bb.arena.player_score=Skóre hráče:	#
+bb.arena.message.buy_again=§cToto už máte	#
+bb.arena.message.downgrade_armor=§cLektvar nelze znovu koupit	#
+bb.arena.message.downgrade_sword=§cNelze provést degradování meče	#
+bb.arena.message.purchase.1=§aZakoupeno	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=pro	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cTo si ještě nemůžete dovolit!	#
+bb.arena.message.death=Umřeli jste!	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Železný meč	#
+bb.upgrade.weapon.diamond_sword=Diamantový meč	#
+bb.upgrade.weapon.netherite_sword=Meč z podsvětního kamene	#
+bb.upgrade.weapon.trident=Trojzubec	#
+bb.upgrade.armor.iron_armor=Železná výzbroj	#
+bb.upgrade.armor.diamond_armor=Diamantová zbroj	#
+bb.upgrade.armor.netherite_armor=Zbroj z podsvětního kamene	#
+bb.upgrade.consume.cookie=Sušenka	#
+bb.upgrade.consume.potion=Lektvar svižnosti	#
+bb.upgrade.consume.apple=Zlaté jablko	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=Upadli jste!	#
+bb.waypoint.96=Poslední pokus!	#
+bb.waypoint.97=Konec hry!	#
+bb.waypoint.98=Dokončeno!	#
+bb.waypoint.100=Parkur dokončen!	#
+bb.waypoint.subtitle.1=Dosažené body na trase	#
+bb.waypoint.subtitle.2=Čas:	#
+bb.waypoint.subtitle.3=Zbývající pokusy:	#
+bb.waypoints=§fBody na trase:	#
+bb.time=§fČas:	#
+bb.tries=§f- Zbývá pokusů:	#
+bb.parkour=Parkur:	#
+bb.parkour.finished=Parkur dokončen!	#
+bb.in=v	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=Připravte se!	#
+bb.dropper.subtitle.start=Pohled dolů	#
+bb.dropper.actionbar.start=Jak rychle se dostanete na dno?	#
+bb.dropper.actionbar.time=Čas:	#
+bb.dropper.title.lose=Čas vypršel!	#
+bb.dropper.subtitle.lose=Už vám nezbývá žádný čas	#
+bb.dropper.actionbar.lose=Hodně štěstí příště!	#
+bb.dropper.title.win=sekund	#
+bb.dropper.subtitle.win=Váš čas	#
+bb.dropper.actionbar.win=Dobrá práce!	#
+bb.dropper.actionbar.personal_best=Nový osobní rekord!	#
+bb.dropper.message.portal=Násypka podavače:	#
+bb.dropper.message.finished=podavač dokončen v	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Žebříček arény	#
+bb.leaderboard.dropper=Žebříček podavače	#
+bb.leaderboard.parkour=Žebříček parkuru	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=Zavřít okno	#
+
+## Voting Text System Messages
+bb.vote.already_voted=Již jste hlasovali	#
+bb.vote.change_vote=Hlasování změněno	#
+bb.vote.voted=Hlasovali jste	#
+bb.vote.received=Hlas přijat!	#
+
+###
+action.hint.exit.mv:livetrain=Děkujeme za jízdu!	#

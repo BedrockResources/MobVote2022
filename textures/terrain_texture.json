@@ -1,0 +1,263 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+  "texture_data": {
+    "badlands1_top": {
+      "textures": "textures/blocks/badlands1_top.png"
+    },
+    "badlands1_side": {
+      "textures": "textures/blocks/badlands1_side.png"
+    },
+    "badlands1_bottom": {
+      "textures": "textures/blocks/badlands1_bottom.png"
+    },
+    "badlands2_top": {
+      "textures": "textures/blocks/badlands2_top.png"
+    },
+    "badlands2_side": {
+      "textures": "textures/blocks/badlands2_side.png"
+    },
+    "badlands2_bottom": {
+      "textures": "textures/blocks/badlands2_bottom.png"
+    },
+    "badlands3_top": {
+      "textures": "textures/blocks/badlands3_top.png"
+    },
+    "badlands3_side": {
+      "textures": "textures/blocks/badlands3_side.png"
+    },
+    "badlands3_bottom": {
+      "textures": "textures/blocks/badlands3_bottom.png"
+    },
+    "badlands4_top": {
+      "textures": "textures/blocks/badlands4_top.png"
+    },
+    "badlands4_side": {
+      "textures": "textures/blocks/badlands4_side.png"
+    },
+    "badlands4_bottom": {
+      "textures": "textures/blocks/badlands4_bottom.png"
+    },
+    "furnace_top": {
+      "textures": "textures/blocks/furnace_top.png"
+    },
+    "furnace_front": {
+      "textures": "textures/blocks/furnace_front_off.png"
+    },
+    "furnace_side": {
+      "textures": "textures/blocks/furnace_side.png"
+    },
+    "smithing_table_top": {
+      "textures": "textures/blocks/smithing_table_top.png"
+    },
+    "smithing_table_front": {
+      "textures": "textures/blocks/smithing_table_front.png"
+    },
+    "smithing_table_side": {
+      "textures": "textures/blocks/smithing_table_side.png"
+    },
+    "smithing_table_bottom": {
+      "textures": "textures/blocks/smithing_table_bottom.png"
+    },
+    "barrel_top": {
+      "textures": "textures/blocks/barrel_top.png"
+    },
+    "barrel_bottom": {
+      "textures": "textures/blocks/barrel_bottom.png"
+    },
+    "barrel_side": {
+      "textures": "textures/blocks/barrel_side.png"
+    },
+    "crafting_table_top": {
+      "textures": "textures/blocks/crafting_table_top.png"
+    },
+    "crafting_table_front": {
+      "textures": "textures/blocks/crafting_table_front.png"
+    },
+    "crafting_table_side": {
+      "textures": "textures/blocks/crafting_table_side.png"
+    },
+    "stone_top": {
+      "textures": "textures/blocks/stone_top.png"
+    },
+    "stone_cave_top": {
+      "textures": "textures/blocks/stone_cave_top.png"
+    },
+    "stone_side": {
+      "textures": "textures/blocks/stone_side.png"
+    },
+    "stone_cave_side": {
+      "textures": "textures/blocks/stone_cave_side.png"
+    },
+    "stone_bottom": {
+      "textures": "textures/blocks/stone_bottom.png"
+    },
+    "stone2_top": {
+      "textures": "textures/blocks/stone2_top.png"
+    },
+    "stone2_cave_top": {
+      "textures": "textures/blocks/stone2_cave_top.png"
+    },
+    "stone2_side": {
+      "textures": "textures/blocks/stone2_side.png"
+    },
+    "stone2_cave_side": {
+      "textures": "textures/blocks/stone2_cave_side.png"
+    },
+    "stone3_top": {
+      "textures": "textures/blocks/stone3_top.png"
+    },
+    "stone3_cave_top": {
+      "textures": "textures/blocks/stone3_cave_top.png"
+    },
+    "stone3_side": {
+      "textures": "textures/blocks/stone3_side.png"
+    },
+    "stone3_cave_side": {
+      "textures": "textures/blocks/stone3_cave_side.png"
+    },
+    "stone4": {
+      "textures": "textures/blocks/stone4.png"
+    },
+    "stone4_cave_top": {
+      "textures": "textures/blocks/stone4_cave_top.png"
+    },
+    "stone4_cave_side": {
+      "textures": "textures/blocks/stone4_cave_side.png"
+    },
+    "stone_snow_top": {
+      "textures": "textures/blocks/stone_snow_top.png"
+    },
+    "stone_snow_side": {
+      "textures": "textures/blocks/stone_snow_side.png"
+    },
+    "grass_top": {
+      "textures": "textures/blocks/grass_top.tga"
+    },
+    "grass_side": {
+      "textures": "textures/blocks/grass_side.tga"
+    },
+    "dirt": {
+      "textures": "textures/blocks/dirt.png"
+    },
+    "dirt2": {
+      "textures": "textures/blocks/dirt2.png"
+    },
+    "dirt3_top": {
+      "textures": "textures/blocks/dirt3_top.png"
+    },
+    "dirt3_side": {
+      "textures": "textures/blocks/dirt3_side.png"
+    },
+    "dirt3_bottom": {
+      "textures": "textures/blocks/dirt3_bottom.png"
+    },
+    "dirt4_top": {
+      "textures": "textures/blocks/dirt4_top.png"
+    },
+    "dirt4_side": {
+      "textures": "textures/blocks/dirt4_side.png"
+    },
+    "dirt4_bottom": {
+      "textures": "textures/blocks/dirt4_bottom.png"
+    },
+    "dirt5": {
+      "textures": "textures/blocks/dirt5.png"
+    },
+    "sand_top": {
+      "textures": "textures/blocks/sand_top.png"
+    },
+    "sand_side": {
+      "textures": "textures/blocks/sand.png"
+    },
+    "sand2_top": {
+      "textures": "textures/blocks/sand2_top.png"
+    },
+    "sand2_side": {
+      "textures": "textures/blocks/sand2_side.png"
+    },
+    "sand2_bottom": {
+      "textures": "textures/blocks/sand2_bottom.png"
+    },
+    "sand3_top": {
+      "textures": "textures/blocks/sand3_top.png"
+    },
+    "sand3_side": {
+      "textures": "textures/blocks/sand3_side.png"
+    },
+    "sand4": {
+      "textures": "textures/blocks/sand4.png"
+    },
+    "log_oak_cave_top": {
+      "textures": "textures/blocks/log_oak_cave_top.png"
+    },
+    "log_oak_cave_side": {
+      "textures": "textures/blocks/log_oak_cave_side.png"
+    },
+    "planks_oak_cave": {
+      "textures": "textures/blocks/planks_oak_cave.png"
+    },
+    "leaves_blank": {
+      "textures": "textures/blocks/leaves_blank.png"
+    },
+    "leaves_corner_up_top": {
+      "textures": "textures/blocks/leaves_corner_up_top.png"
+    },
+    "leaves_corner_down_bottom": {
+      "textures": "textures/blocks/leaves_corner_down_bottom.png"
+    },
+    "leaves_corner_up_south": {
+      "textures": "textures/blocks/leaves_corner_up_south.png"
+    },
+    "leaves_corner_down_south": {
+      "textures": "textures/blocks/leaves_corner_down_south.png"
+    },
+    "leaves_corner_up_west": {
+      "textures": "textures/blocks/leaves_corner_up_west.png"
+    },
+    "leaves_corner_down_west": {
+      "textures": "textures/blocks/leaves_corner_down_west.png"
+    },
+    "leaves_mid_up": {
+      "textures": "textures/blocks/leaves_mid_up.png"
+    },
+    "leaves_mid_down_bottom": {
+      "textures": "textures/blocks/leaves_mid_down_bottom.png"
+    },
+    "leaves_mid_down_south": {
+      "textures": "textures/blocks/leaves_mid_down_south.png"
+    },
+    "leaves_peak_top": {
+      "textures": "textures/blocks/leaves_peak_top.png"
+    },
+    "leaves_peak_side": {
+      "textures": "textures/blocks/leaves_peak_side.png"
+    },
+    "leaves_peak_bottom": {
+      "textures": "textures/blocks/leaves_blank.png"
+    },
+    "cobblestone_top": {
+      "textures": "textures/blocks/cobblestone_top.png"
+    },
+    "cobblestone_side": {
+      "textures": "textures/blocks/cobblestone_side.png"
+    },
+    "snow_side": {
+      "textures": "textures/blocks/snow_side.png"
+    },
+    "snow_bottom": {
+      "textures": "textures/blocks/snow_bottom.png"
+    },
+    "passthrough_light_gray_concrete": {
+      "textures": "textures/blocks/passthrough_light_gray_concrete.png"
+    },
+    "passthrough_gray_concrete": {
+      "textures": "textures/blocks/passthrough_gray_concrete.png"
+    },
+    "passthrough_cyan_concrete": {
+      "textures": "textures/blocks/passthrough_cyan_concrete.png"
+    }
+  }
+}

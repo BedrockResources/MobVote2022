@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=Yönetici	#
+
+## Name
+name.agnes=Minik Agnes	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Minik Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Minik Vu	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§fOy Ver	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§fŞUNUN İÇİN EĞİT	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT CANLI	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=Hız treni	#
+bb.dropper.title=Huni Bırakıcı	#
+bb.arena.title=Jens'in Savaş Arenası	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Sniffer Parkuru	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Tuff Golem Parkour	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Rascal Parkuru	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=Tamam	#
+bb.dialog.button.queue=Sıraya Katılın	#
+bb.dialog.button.leaderboard=Lider Tablosunu Görüntüle	#
+button.close=Kapat	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=Geri	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=Garip su altı yumurtaları, madenlerde ürkütücü bir varlık ve... hareket eden şapkalar? Mob oylamasına hoş geldiniz! Ben Minik Vu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=Bu oylama, Minecraft Live canlı yayınına kadar 24 saat boyunca geçerli olacak. Ardından oylama kapanacak ve burası sonsuza dek yok olacak! Bu 24 saat, değişiklik yapmak için son şansınız!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Oylama hakkında bilgi edinmek için Minik Jens ile, moblar hakkında bilgi almak için ise Minik Agnes ile konuşun! Ve mini oyunlarımızı deneyin!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=Hej! Ben Minik Jens! Oylamaya hoş geldiniz!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=Oyunuz Minecraft'ın geleceğini belirliyor! Biz Mojang geliştiricilerinin bir sonraki geliştirilecek mobu seçmesine yardımcı edin. Üç fikrimiz var ama sadece birini seçebiliriz. Sadece bir tanesi olabilir! En sevdiğiniz moba oy vermek için şalteri kaldırın.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=Oyunuzu istediğiniz zaman değiştirebilirsiniz; ancak şalteri ne sıklıkta kaldırdığınız veya oyunuzu ne sıklıkla değiştirdiğiniz fark etmez, yalnızca son oylarınız sayılır.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=Merhaba ben Minik Agnes! Moblar dünyasına hoş geldiniz!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=Size moblar hakkında daha fazla bilgi vereceğimiz ve hangisine oy vereceğinize karar vermenize yardımcı olacağımız için çok heyecanlıyız.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=Hangisi hakkında bilgi edinmek istersiniz?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=rascal, Saklambaç oynamayı seven yaramaz bir çete! 	###{locked="rascal"}
+dialog.rascal.button.2=Yeraltı madenlerinde gizleniyor, bulunmayı bekliyor.	#
+dialog.rascal.button.3=Aynı rascal'ı üç kez görürseniz size bir ödül verir, bu yüzden gözünüzü açık tutun!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=tuff golem bükülmüş bir heykeldir - canlanır! Uyandığında, etrafta dolaşacak, karşılaşacağı herhangi bir öğeyi alacak ve tutacaktır.	###{Locked="tuff golem"}
+dialog.tuff.button.2=Endişelenmeyin, heykele dönüştüğünde yerleştirdiğiniz aynı noktaya geri dönecektir.	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=sniffer bir zamanlar Overworld'ün ekosisteminin bir parçasıydı. Şimdi yumurtasını bulabilirsen soyu tükenmiş çeteyi geri getirebilirsin!	###{locked="sniffer"}
+dialog.sniffer.button.2=Yeni sniffer'ları yumurtadan çıkarın, yetiştirin ve soyu tükenmiş mobu nasıl bir kez daha canlandıracağınızı öğrenin. Etrafta sadece sniffer'ın bulabileceği tohumlar var!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Hej hej! Minik Jens'in savaş arenasına hoş geldiniz.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=İki dakika içinde kaç dalgayı alt edebilirsiniz?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=Moblara vurmak size puan getirir, bu puanları yükseltme satın almak için kullanabilirsiniz!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=Diğer oyuncularla savaşmaya zahmet etmeyin, birbirinize zarar veremezsiniz!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=Burada yeni bir mob gördüm. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=İşte orada, o mağarada! Bu bir rascal ve arkadaş canlısı gibi duruyor.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=Üç kez bulursam belki bana bir ödül verir.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=rascal gördüm. Düşmanca değil, sadece biraz yaramaz.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=Yeraltında yaşıyor ve saklambaç oynamayı seviyor.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=Topluluk rascal'a oy verirse bu saklambaç oyununu sonsuza dek devam ettirebiliriz.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=Sırlara gözünüzü dört açın!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=Zorlu görevler, oynanacak eğlenceli yerler var ve geçmiş oylamalardan gelen moblar dünyanın dört bir yanında gizleniyor. Hepsini bulabilir misiniz?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=Bu zıpır bırakıcı görevlerinde güzel zaman geçirmek için yarışın!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=Hiçbir şeye çarpmadan kusursuz bir bırakma gerçekleştirebilir misiniz?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=Zamanlayıcıya bakın ve dibe ne kadar çabuk ulaşabileceğinizi görün! Denemek için bir dakikanız var.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=Bu bir heykel mi yoksa askılık mı? Ah, canlı!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=Bir dakika, bu bir tuff golem olabilir mi?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=Bir eşyayı tutabilir ve evinizde dolaşabilirler!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=Şapkanı tutabilen bir sanat sergisi mi? Oh, bu bir tuff golem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=Yalnızca canlanan heykel hakkında söylentiler duymuştum.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=Oyuncular bunlara oy verirse bir sanat sergisi açabiliriz.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=Dünya turuna çıkın ve manzaralara şahit olun!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=Maden arabasından istediğiniz zaman ayrılabilirsiniz, ama ayrılırsanız bana geri döneceksiniz.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=rascal tepesine park etmek ister misiniz? Bu parkur buradaki en kolay parkur. Hala biraz zor!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=Kaydetme noktalarını ayarlamak için parıltılı bloklara basın. Aman yere düşmeyin!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=En yukarı çıktıktan sonra zili çalmak için şalteri kaldırın!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=Yüzerken ve sniffer alanına tırmanırken doğa ile bir bütün olun! Bu, orta zorlukta bir parkur. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=Kaydetme noktalarını ayarlamak için parıltılı bloklara basın. Aman yere düşmeyin!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=En yukarı çıktıktan sonra zili çalmak için şalteri kaldırın!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=Dondurmak! Şimdi dondurun ve tuff golem evinde yarışın! Bu parkur buradaki en zoru. Gibi, gerçekten zor.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=Kaydetme noktalarını ayarlamak için parıltılı bloklara basın. Aman yere düşmeyin!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=En yukarı çıktıktan sonra zili çalmak için şalteri kaldırın!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=Bu bir sniffer, soylarının tükendiğini sanıyordum.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=Bitkileri severlerdi, toprağı en sevimli olabilecek şekilde koklayarak tohum buldular.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=Topluluk sniffer'a oy verirse, yeni bitkiler bulmamıza yardımcı olabilirler.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=Bu mob son derece sıra dışı, antik bir yumurtadan çıktı.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=Bitki uzmanı gibi görünüyor.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=Tüm bu yumurtalar sayesinde Dış Dünya'da bir kez daha gelişmelerine yardımcı olabileceğimize bahse girerim.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=Sorun değil	#
+bb.minigames.subtitle.join_queue=Sıraya katıldınız!	#
+bb.minigames.subtitle.in_queue=Zaten bu kuyruktasınız.	#
+bb.minigames.actionbar.queue.1=Numaranız	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=bitti	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=şunun için sırada:	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=Mob Oylaması!	#
+bb.entry.subtitle=Sürüm 0.21.4	#
+bb.entry.dialog.title=Steve olarak görüntüleniyorsunuz.	#
+bb.entry.dialog.body=Bu sunucuda özel dış görünüşler ve karakterler devre dışı. Soyunma odasında farklı bir dış görünüşe geçebilirsiniz.	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=The End!	#
+bb.coaster.subtitle.end=Biniş için teşekkür ederiz!	#
+bb.coaster.title.exit=Çıkış	#
+bb.coaster.subtitle.exit=Maden arabasından ayrıldınız	#
+
+## Battle Arena System Messages
+bb.arena.title.start=Hazır Olun...	#
+bb.arena.subtitle.start=Tüm mobları yok edin!	#
+bb.arena.actionbar.start=İki dakikanız var!	#
+bb.arena.actionbar.score.1=§fPuan:	#
+bb.arena.actionbar.score.2=§f- Zaman:	#
+bb.arena.wave=Dalga	#
+bb.arena.wave.final=SON DALGA	#
+bb.arena.win=Kazandınız!	#
+bb.arena.subtitle.fight=Savaşalım!	#
+bb.arena.subtitle.wave_complete=Halledildi!	#
+bb.arena.title.game_over=Süre Doldu!!!	#
+bb.arena.subtitle.no_wave_complete=Tamamlanan dalga yok	#
+bb.arena.subtitle.one_wave_complete=1 dalga tamamlandı	#
+bb.arena.actionbar.no_wave_complete=Bir dahakine bol şans!	#
+bb.arena.subtitle.game_over=tamamlanan dalgalar	#
+bb.arena.title.item_give=Ne güzel!	#
+bb.arena.subtitle.item_give=Herkese verdiniz	#
+bb.arena.title.item_get=§aAldınız	#
+bb.arena.title.no_players=Şimdi verilemiyor	#
+bb.arena.subtitle.no_players=Arena oyunu işliyor olmalı	#
+bb.arena.title.already_given=Zaten verilmiş	#
+bb.arena.subtitle.already_given=Maç başına yalnızca bir kez	#
+bb.arena.ending=Arena:	#
+bb.arena.score=Skor:	#
+bb.arena.waves_completed=Tamamlanan dalgalar:	#
+bb.arena.player_score=Oyuncu puanları:	#
+bb.arena.message.buy_again=§cBuna zaten sahipsiniz	#
+bb.arena.message.downgrade_armor=§cTekrar iksir satın alınamıyor	#
+bb.arena.message.downgrade_sword=§cKılıcın derecesi düşürülemiyor	#
+bb.arena.message.purchase.1=§aSatın alındı	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=için	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cBuna henüz paranız yetmiyor!	#
+bb.arena.message.death=Öldünüz!	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Demir Kılıç	#
+bb.upgrade.weapon.diamond_sword=Elmas Kılıç	#
+bb.upgrade.weapon.netherite_sword=Netherit Kılıç	#
+bb.upgrade.weapon.trident=Üç Uçlu Mızrak	#
+bb.upgrade.armor.iron_armor=Demir Zırh	#
+bb.upgrade.armor.diamond_armor=Elmas Zırh	#
+bb.upgrade.armor.netherite_armor=Netherit Zırhı	#
+bb.upgrade.consume.cookie=Kurabiye	#
+bb.upgrade.consume.potion=Sürat İksiri	#
+bb.upgrade.consume.apple=Altın Elma	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=Düştünüz!	#
+bb.waypoint.96=Son deneme!	#
+bb.waypoint.97=Oyun bitti!	#
+bb.waypoint.98=Tamamlandı!	#
+bb.waypoint.100=Parkur tamamlandı!	#
+bb.waypoint.subtitle.1=Ulaşılan noktalar	#
+bb.waypoint.subtitle.2=Süre:	#
+bb.waypoint.subtitle.3=Kalan Denemeler:	#
+bb.waypoints=§fNoktalar:	#
+bb.time=§fZaman:	#
+bb.tries=§f- Kalan denemeler:	#
+bb.parkour=Parkur:	#
+bb.parkour.finished=Parkur tamamlandı!	#
+bb.in=içinde	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=Hazır Olun!	#
+bb.dropper.subtitle.start=Aşağı Bak	#
+bb.dropper.actionbar.start=Dibe ne kadar çabuk ulaşabilirsiniz?	#
+bb.dropper.actionbar.time=Süre:	#
+bb.dropper.title.lose=Süre doldu!	#
+bb.dropper.subtitle.lose=Zamanınız tükendi	#
+bb.dropper.actionbar.lose=Bir dahakine bol şans!	#
+bb.dropper.title.win=saniye	#
+bb.dropper.subtitle.win=Süreniz	#
+bb.dropper.actionbar.win=İyi iş çıkardın!	#
+bb.dropper.actionbar.personal_best=Yeni rekorunuz!	#
+bb.dropper.message.portal=Huni Bırakıcı:	#
+bb.dropper.message.finished=içinde bırakıcıyı tamamladı	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Arena Liderlik Tablosu	#
+bb.leaderboard.dropper=Bırakıcı Liderlik Tablosu	#
+bb.leaderboard.parkour=Parkur Liderlik Tablosu	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=Pencereyi kapat	#
+
+## Voting Text System Messages
+bb.vote.already_voted=Zaten oy verdiniz	#
+bb.vote.change_vote=Oy değiştirildi	#
+bb.vote.voted=Oy Verdiniz	#
+bb.vote.received=Oy alındı!	#
+
+###
+action.hint.exit.mv:livetrain=Biniş için teşekkür ederiz!	#

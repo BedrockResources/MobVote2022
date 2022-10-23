@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=Manager	#
+
+## Name
+name.agnes=Lilla Agnes	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Lilla Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Lilla Vu	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§fRösta på	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§fTÅG MOT	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT LIVE	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=Bergochdalbana	#
+bb.dropper.title=Tratt-utmatare	#
+bb.arena.title=Jens stridsarena	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Sniffer-parkour	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Tuff Golem Parkour	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Rascal-parkour	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=OK	#
+bb.dialog.button.queue=Köa	#
+bb.dialog.button.leaderboard=Visa topplista	#
+button.close=Stäng	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=Tillbaka	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=Konstiga undervattensägg, en kuslig närvaro i gruvorna och… hattar som rör sig? Välkommen till varelseomröstningen! Jag är Lilla Vu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=Omröstningen kommer att vara tillgänglig i 24 timmar tills Minecraft Live går, ja, live. Då kommer omröstningen att avslutas och platsen kommer att försvinna för alltid! De här 24 timmarna är din chans att göra en förändring!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Prata med Lilla Jens för att lära dig mer om omröstningen och Lilla Agnes för att höra om varelserna! Och prova våra minispel!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=Hej! Jag är Lilla Jens! Välkommen till omröstningen!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=Din röst avgör Minecrafts framtid! Hjälp oss Mojang-utvecklare att välja vilken varelse vi ska utveckla härnäst. Vi har tre idéer, men kan bara välja en. Det kan bara bli en! Dra i en spak för att rösta på din favoritvarelse.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=Du kan ändra din röst när som helst, men oavsett hur ofta du drar i spaken eller ändrar din röst är det bara din sista röst som räknas.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=Hej! Jag är Lilla Agnes! Välkommen till den här varelsevärlden!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=Vi ser fram emot att berätta mer om varelserna så att du kan bestämma dig för vilken du vill rösta på.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=Vilken skulle du vilja lära dig mer om?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=The rascal är en busig mobb som älskar att spela Hide &Seek! 	###{locked="rascal"}
+dialog.rascal.button.2=Den lurar i underjordiska gruvor i väntan på att hittas.	#
+dialog.rascal.button.3=Om du hittar samma rascal tre gånger kommer den att belöna dig med ett pris, så håll ögonen öppna!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=Den tuff golem är en staty med en twist - den kommer till liv! När den vaknar kommer den att gå runt, plocka upp och hålla i alla föremål den stöter på.	###{Locked="tuff golem"}
+dialog.tuff.button.2=Oroa dig inte, den kommer att återvända till samma plats som du placerade den när den förvandlas till staty.	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=Den sniffer var en gång en del av Overworlds ekosystem. Nu kan du ta tillbaka den utdöda mobben om du kan hitta dess ägg!	###{locked="sniffer"}
+dialog.sniffer.button.2=Kläck nya sniffers, avla dem och kom på ett sätt att få de utrotade att bli livskraftiga igen. Det finns frön där ute som bara sniffer kan hitta!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Hej hej! Välkommen till Lilla Jens stridsarena.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=Hur många vågor kan du besegra på två minuter?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=Genom att träffa varelser får du poäng som du kan använda för att köpa uppgraderingar!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=Försök inte att slåss mot andra spelare. Ni kan inte skada varandra!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=Jag såg en ny varelse här nere. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=Där är den, i grottan där! Det är en rascal, och den verkar vara vänlig.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=Om jag hittar den tre gånger kanske den ger mig en belöning.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=Jag har hittat rascal. Den är inte elak, bara lite busig.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=Den lever under jorden och älskar att leka kurragömma.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=Om communityn röstar på rascal kan vi fortsätta leka kurragömma för evigt.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=Håll utkik efter hemligheter!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=Det finns svåra utmaningar, roliga platser att spela på och varelser från tidigare varelseomröstningar gömda runtom i världen. Kan du hitta dem alla?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=Försök sätta personbästa i vår studsiga utmatarutmaning!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=Klarar du av att landa utan att träffa någonting?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=Håll ett öga på klockan och se hur snabbt du kan ta dig till botten! Du har en minut på dig att försöka.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=Är det en staty eller en hatthängare? Jaha, den lever!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=Vänta, kan det här vara en tuff golem?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=Den kan hålla ett föremål och vandra runt i din bas!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=Är det en konstutställning som kan hålla hatten? Jaha, det är en tuff golem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=Jag hade bara hört rykten om statyn som vaknar till liv.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=Om spelarna röstar på de här kan vi öppna en konstutställning.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=Ta en rundtur i världen och se sevärdheterna!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=Du kan lämna gruvvagnen när som helst, men om du gör det kommer du tillbaka till mig.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=Vill du klättra ikapp mot rascal? Den här parkourbanan är det enklaste här inne, men fortfarande lite knepig!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=Kliv på lysande block för att skapa sparpunkter. Ramla inte ner på marken!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=Dra i spaken när du är högst upp för att ringa i klockan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=Bli ett med naturen när du simmar och klättrar genom snifferns domän! Den här parkourbanan är medelsvår. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=Kliv på lysande block för att skapa sparpunkter. Ramla inte ner på marken!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=Dra i spaken när du är högst upp för att ringa i klockan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=Stanna! Spring nu och skynda genom tuff golems hem! Den här parkourbanan är den svåraste här inne. Riktigt svår.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=Kliv på lysande block för att skapa sparpunkter. Ramla inte ner på marken!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=Dra i spaken när du är högst upp för att ringa i klockan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=Det är en sniffer. Jag trodde att de var utdöda.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=Den älskade växter och hittade frön genom att sniffa på marken på det mest bedårande sättet.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=Om communityn röstar på sniffern kan den hjälpa oss att hitta nya växter.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=Den här  varelsen kläcktes från ett mycket ovanligt gammalt ägg.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=Den verkar vara en växtexpert.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=Jag slår vad om att vi kan få dem att frodas i ytvärlden igen med alla de här äggen.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=Inga problem	#
+bb.minigames.subtitle.join_queue=Ställd i kö!	#
+bb.minigames.subtitle.in_queue=Du köar redan.	#
+bb.minigames.actionbar.queue.1=Du är nr	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=av	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=köar till	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=Varelseomröstning!	#
+bb.entry.subtitle=Version 0.21.4	#
+bb.entry.dialog.title=Du visas som Steve.	#
+bb.entry.dialog.body=Den här servern har stängt av anpassade utseenden och personas. Du kan byta till ett annat utseende i omklädningsrummet.	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=Slut!	#
+bb.coaster.subtitle.end=Tack för att du rider!	#
+bb.coaster.title.exit=Avsluta	#
+bb.coaster.subtitle.exit=Du lämnade gruvvagnen	#
+
+## Battle Arena System Messages
+bb.arena.title.start=Förbered dig…	#
+bb.arena.subtitle.start=Förstör alla varelser!	#
+bb.arena.actionbar.start=Du har två minuter på dig!	#
+bb.arena.actionbar.score.1=§fPoäng:	#
+bb.arena.actionbar.score.2=§f- Tid:	#
+bb.arena.wave=Våg	#
+bb.arena.wave.final=SISTA VÅGEN	#
+bb.arena.win=Du vann!	#
+bb.arena.subtitle.fight=Kämpa!	#
+bb.arena.subtitle.wave_complete=Allt klart!	#
+bb.arena.title.game_over=Tiden är slut!	#
+bb.arena.subtitle.no_wave_complete=Inga vågor avklarade	#
+bb.arena.subtitle.one_wave_complete=1 våg avklarad	#
+bb.arena.actionbar.no_wave_complete=Bättre lycka nästa gång!	#
+bb.arena.subtitle.game_over=vågor avklarade	#
+bb.arena.title.item_give=Vad bra!	#
+bb.arena.subtitle.item_give=Du gav alla	#
+bb.arena.title.item_get=§aDu fick	#
+bb.arena.title.no_players=Ge inte upp nu	#
+bb.arena.subtitle.no_players=Arenaspelet måste vara igång	#
+bb.arena.title.already_given=Redan utdelad	#
+bb.arena.subtitle.already_given=Endast en gång per match	#
+bb.arena.ending=Arena:	#
+bb.arena.score=Poäng:	#
+bb.arena.waves_completed=Vågor avklarade:	#
+bb.arena.player_score=Spelarpoäng:	#
+bb.arena.message.buy_again=§cDu har redan det här	#
+bb.arena.message.downgrade_armor=§cKan inte köpa brygden igen	#
+bb.arena.message.downgrade_sword=§cKan inte nedgradera svärdet	#
+bb.arena.message.purchase.1=§aKöpt	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=för	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cDu har inte råd med det här än!	#
+bb.arena.message.death=Du dog!	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Järnsvärd	#
+bb.upgrade.weapon.diamond_sword=Diamantsvärd	#
+bb.upgrade.weapon.netherite_sword=Netheritsvärd	#
+bb.upgrade.weapon.trident=Treudd	#
+bb.upgrade.armor.iron_armor=Järnrustning	#
+bb.upgrade.armor.diamond_armor=Diamantrustning	#
+bb.upgrade.armor.netherite_armor=Netheritrustning	#
+bb.upgrade.consume.cookie=Kaka	#
+bb.upgrade.consume.potion=Snabbhetsbrygd	#
+bb.upgrade.consume.apple=Guldäpple	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=Du ramlade!	#
+bb.waypoint.96=Sista försöket!	#
+bb.waypoint.97=Spelet är slut!	#
+bb.waypoint.98=Avklarad!	#
+bb.waypoint.100=Parkour avklarad!	#
+bb.waypoint.subtitle.1=Vägpunkter nådda	#
+bb.waypoint.subtitle.2=Tid:	#
+bb.waypoint.subtitle.3=Återstående försök:	#
+bb.waypoints=§fVägpunkter:	#
+bb.time=§fTid:	#
+bb.tries=§f- Återstående försök:	#
+bb.parkour=Parkour:	#
+bb.parkour.finished=Parkour avklarad!	#
+bb.in=om	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=Förbered dig!	#
+bb.dropper.subtitle.start=Titta nedåt	#
+bb.dropper.actionbar.start=Hur snabbt kan du nå botten?	#
+bb.dropper.actionbar.time=Tid:	#
+bb.dropper.title.lose=Tiden är slut!	#
+bb.dropper.subtitle.lose=Tiden gick ut	#
+bb.dropper.actionbar.lose=Bättre lycka nästa gång!	#
+bb.dropper.title.win=sekunder	#
+bb.dropper.subtitle.win=Din tid	#
+bb.dropper.actionbar.win=Bra jobbat!	#
+bb.dropper.actionbar.personal_best=Nytt personbästa!	#
+bb.dropper.message.portal=Tratt-utmatare:	#
+bb.dropper.message.finished=klarade utmataren på	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Arenatopplista	#
+bb.leaderboard.dropper=Utmatartopplista	#
+bb.leaderboard.parkour=Parkourtopplista	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=Stäng fönstret	#
+
+## Voting Text System Messages
+bb.vote.already_voted=Du har redan röstat	#
+bb.vote.change_vote=Röst ändrad	#
+bb.vote.voted=Du röstade	#
+bb.vote.received=Röst mottagen!	#
+
+###
+action.hint.exit.mv:livetrain=Tack för att du rider!	#

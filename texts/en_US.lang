@@ -1,0 +1,245 @@
+## Manager entity
+entity.bb:manager.name=Manager
+
+## Name
+name.agnes=Tiny Agnes
+name.jens=Tiny Jens
+name.vu=Tiny Vu
+
+## Signs
+sign.vote.sniffer=§fSniffer
+sign.vote.golem=§fTuff Golem
+sign.vote.rascal=§fRascal
+sign.vote.text=§fVote For
+sign.vote.train1=§fTRAIN TO
+sign.vote.train2=§fMINECRAFT LIVE
+
+
+## Minigame Names and Titles
+bb.coaster.title=Rollercoaster
+bb.dropper.title=Hopper Dropper
+bb.arena.title=Jens' Combat Arena
+bb.parkour.sniffer.title=Sniffer Parkour
+bb.parkour.tuffgolem.title=Tuff Golem Parkour
+bb.parkour.rascal.title=Rascal Parkour
+
+## Dialog buttons
+button.ok=OK
+bb.dialog.button.queue=Join Queue
+bb.dialog.button.leaderboard=View Leaderboard
+button.close=Close
+button.sniffer=Sniffer
+button.vote.golem=Tuff Golem
+button.vote.rascal=Rascal
+button.back=Back
+
+bb.vote.sniffer=Sniffer
+bb.vote.golem=Tuff Golem
+bb.vote.rascal=Rascal
+
+dialog.vu.1=Strange underwater eggs, an eerie presence in the mines, and... moving hats?  Welcome to the Mob Vote! I am Tiny Vu.
+dialog.vu.2=This vote will be available for 24 hours until Minecraft Live goes, well, live. Then the vote will stop and this place will disappear forever! These 24 hours are your chance to make a change!
+dialog.vu.3=Talk to Tiny Jens to learn about voting and Tiny Agnes to hear about the mobs! And try out our minigames!
+
+dialog.jens.1=Hej! I am Tiny Jens! Welcome to the vote!
+dialog.jens.2=Your vote defines the future of Minecraft! Help us Mojang developers choose which mob we should develop next. We have three ideas but can only choose one. There can only be one!  Pull a lever to vote for your favorite mob.
+dialog.jens.3=You can change your vote at any time, but no matter how often you pull that lever or change your vote, only your last vote counts.
+
+dialog.agnes.1=Hi I am Tiny Agnes! Welcome to this world of mobs!
+dialog.agnes.2=We are so excited to tell you more about the mobs, to help you decide which one to vote for.
+dialog.agnes.3=Which one would you like to learn about?
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=The rascal is a mischievous mob that loves to play Hide & Seek! 
+dialog.rascal.button.2=It lurks in underground mines, waiting to be found.
+dialog.rascal.button.3=If you spot the same rascal three times, it will reward you with a prize so keep your eyes open!
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=The tuff golem is a statue with a twist - it comes alive! When it awakens, it will walk around, pick up, and hold any item it comes across.
+dialog.tuff.button.2=Don't worry, it will return to the same spot that you've placed it when it turns back into a statue.
+dialog.tuff.button.3= 
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=The sniffer was once part of the Overworld's ecosystem. Now you can bring back the extinct mob if you can find its egg!
+dialog.sniffer.button.2=Hatch new sniffers, breed them, and figure out how to make the extinct mob thrive once more. There are seeds out there that only the sniffer can find!
+dialog.sniffer.button.3= 
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Hej hej! Welcome to Tiny Jens' combat arena.
+dialog.arena_jens.2=How many waves can you defeat in two minutes?
+dialog.arena_jens.3=Hitting mobs gives you points and you can use those points to buy upgrades!
+dialog.arena_jens.4=Don't bother fighting other players, you can't hurt each other!
+
+dialog.cave_agnes.1=I saw a new mob down here. 
+dialog.cave_agnes.2=There it is, in that cave! It's a rascal, and it seems to be friendly.
+dialog.cave_agnes.3=If I find it three times maybe it will give me a prize.
+
+dialog.cave_jens.1=I've spotted the rascal. It's not hostile, just a little mischievous.
+dialog.cave_jens.2=It lives underground and loves playing hide and seek.
+dialog.cave_jens.3=If the community votes for the rascal, we can keep this game of hide and seek going forever.
+
+dialog.detective_vu.1=Keep your eyes open for secrets!
+dialog.detective_vu.2=There are difficult challenges, fun places to play, and the mobs from past mob votes are hidden around the world. Can you find them all?
+dialog.detective_vu.3= 
+
+dialog.dropper_agnes.1=Compete for your best time in this bouncy dropper challenge!
+dialog.dropper_agnes.2=Can you make a clean drop and not hit anything?
+dialog.dropper_agnes.3=Watch the timer and see how quickly you can make it to the bottom! You have one minute to try.
+
+dialog.house_agnes.1=Is this a statue or a hat holder? Oh, it's alive!
+dialog.house_agnes.2=Wait, could this be a tuff golem?
+dialog.house_agnes.3=They can hold an item and move around your place!
+
+dialog.house_jens.1=It's an art exhibit that can hold your hat? Oh, it's a tuff golem!
+dialog.house_jens.2=I had only heard rumors about the statue that comes alive.
+dialog.house_jens.3=If players vote for these we can open an art exhibition.
+
+
+dialog.minecart_jens.1=Take a tour of the world and see the sights!
+dialog.minecart_jens.2=You can exit the minecart at any time, but if you do, you'll come back to me.
+dialog.minecart_jens.3= 
+
+dialog.parkour_agnes.1=Want to parkour to the top of the rascal? This parkour is the easiest in here. Still a bit tricky!
+dialog.parkour_agnes.2=Step on glowy blocks to set the save points. Don't fall to the ground!
+dialog.parkour_agnes.3=Once you're at the top, pull the lever to ring the bell!
+
+dialog.parkour_jens.1=Become one with nature as you swim and climb through the sniffer's domain! This parkour is medium difficulty. 
+dialog.parkour_jens.2=Step on glowy blocks to set the save points. Don't fall to the ground!
+dialog.parkour_jens.3=Once you're at the top, pull the lever to ring the bell!
+
+dialog.parkour_vu.1=Freeze! Now unfreeze, and race through the tuff golem's home! This parkour is the hardest in here. Like, really hard.
+dialog.parkour_vu.2=Step on glowy blocks to set the save points. Don't fall to the ground!
+dialog.parkour_vu.3=Once you're at the top, pull the lever to ring the bell!
+
+dialog.snorkel_agnes.1=It's a sniffer, I thought these were extinct.
+dialog.snorkel_agnes.2=They loved plants and found seeds by sniffing the ground in the most adorable way.
+dialog.snorkel_agnes.3=If the community votes for the sniffer they could help us find new plants.
+
+dialog.snorkel_jens.1=This mob hatched from a most unusual ancient egg.
+dialog.snorkel_jens.2=It appears to be a plant expert.
+dialog.snorkel_jens.3=With all these eggs I bet we could help them thrive in the overworld once more.
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=No problem
+bb.minigames.subtitle.join_queue=Joined queue!
+bb.minigames.subtitle.in_queue=You are already in this queue.
+bb.minigames.actionbar.queue.1=You are no.
+bb.minigames.actionbar.queue.2=out of
+bb.minigames.actionbar.queue.3=in queue for
+
+## Main Server Area System Messages
+bb.entry.title=Mob Vote!
+bb.entry.subtitle=Version 0.21.4
+bb.entry.dialog.title=You are being displayed as Steve.
+bb.entry.dialog.body=This server has custom skins and personas disabled.  You can switch to a different skin in the dressing room.
+
+## Endercoaster System Messages
+bb.coaster.title.end=The End!
+bb.coaster.subtitle.end=Thank you for riding!
+bb.coaster.title.exit=Exit
+bb.coaster.subtitle.exit=You left the minecart
+
+## Battle Arena System Messages
+bb.arena.title.start=Get Ready...
+bb.arena.subtitle.start=Destroy all mobs!
+bb.arena.actionbar.start=You have two minutes!
+bb.arena.actionbar.score.1=§fPoints:
+bb.arena.actionbar.score.2=§f- Time:
+bb.arena.wave=Wave
+bb.arena.wave.final=FINAL WAVE
+bb.arena.win=You Won!
+bb.arena.subtitle.fight=Fight!
+bb.arena.subtitle.wave_complete=All done!
+bb.arena.title.game_over=Time's Up!!!
+bb.arena.subtitle.no_wave_complete=No waves completed
+bb.arena.subtitle.one_wave_complete=1 wave completed
+bb.arena.actionbar.no_wave_complete=Better luck next time!
+bb.arena.subtitle.game_over=waves completed
+bb.arena.title.item_give=How nice!
+bb.arena.subtitle.item_give=You gave everyone
+bb.arena.title.item_get=§aYou received
+bb.arena.title.no_players=Can't give now
+bb.arena.subtitle.no_players=Arena game must be running
+bb.arena.title.already_given=Already given
+bb.arena.subtitle.already_given=Only once per match
+bb.arena.ending=Arena:
+bb.arena.score=Score:
+bb.arena.waves_completed=Waves completed:
+bb.arena.player_score=Player scores:
+bb.arena.message.buy_again=§cYou already have this
+bb.arena.message.downgrade_armor=§cCannot buy potion again
+bb.arena.message.downgrade_sword=§cCannot downgrade sword
+bb.arena.message.purchase.1=§aPurchased
+bb.arena.message.purchase.2=for
+bb.arena.message.no_purchase=§cYou can't afford this yet!
+bb.arena.message.death=You died!
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Iron Sword
+bb.upgrade.weapon.diamond_sword=Diamond Sword
+bb.upgrade.weapon.netherite_sword=Netherite Sword
+bb.upgrade.weapon.trident=Trident
+bb.upgrade.armor.iron_armor=Iron Armor
+bb.upgrade.armor.diamond_armor=Diamond Armor
+bb.upgrade.armor.netherite_armor=Netherite Armor
+bb.upgrade.consume.cookie=Cookie
+bb.upgrade.consume.potion=Potion of Swiftness
+bb.upgrade.consume.apple=Golden Apple
+
+##Parkour Challenge System Messages
+bb.waypoint.95=You fell!
+bb.waypoint.96=Last try!
+bb.waypoint.97=Game Over!
+bb.waypoint.98=Complete!
+bb.waypoint.100=Parkour complete!
+bb.waypoint.subtitle.1=Waypoints reached
+bb.waypoint.subtitle.2=Time:
+bb.waypoint.subtitle.3=Tries Remaining:
+bb.waypoints=§fWaypoints:
+bb.time=§fTime:
+bb.tries=§f- Tries remainaing:
+bb.parkour=Parkour:
+bb.parkour.finished=Parkour complete!
+bb.in=in
+
+## Portal Fall System Messages
+bb.dropper.title.start=Get Ready!
+bb.dropper.subtitle.start=Look Down
+bb.dropper.actionbar.start=How quickly can you reach the bottom?
+bb.dropper.actionbar.time=Time:
+bb.dropper.title.lose=Time is up!
+bb.dropper.subtitle.lose=You ran out of time
+bb.dropper.actionbar.lose=Better luck next time!
+bb.dropper.title.win=seconds
+bb.dropper.subtitle.win=Your time
+bb.dropper.actionbar.win=Nice job!
+bb.dropper.actionbar.personal_best=New personal best!
+bb.dropper.message.portal=Hopper Dropper:
+bb.dropper.message.finished=finished dropper in
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Arena Leaderboard
+bb.leaderboard.dropper=Dropper Leaderboard
+bb.leaderboard.parkour.rascal=Rascal Parkour Leaderboard
+bb.leaderboard.parkour.sniffer=Sniffer Parkour Leaderboard
+bb.leaderboard.parkour.tuffgolem=Tuff Golem Parkour Leaderboard
+bb.leaderboard.parkour=Parkour Leaderboard
+bb.leaderboard.none=<no leaderboard data>
+bb.leaderboard.button.close=Close window
+
+## Voting Text System Messages
+bb.vote.already_voted=You already voted
+bb.vote.change_vote=Vote changed
+bb.vote.voted=You Voted
+bb.vote.received=Vote received!
+entity.mv:livetrain.name=livetrain
+
+###
+action.hint.exit.mv:livetrain=Thank you for riding!

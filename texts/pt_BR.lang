@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=Gerente	#
+
+## Name
+name.agnes=Mini-Agnes	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Mini-Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Pequeno Vu	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§fVotar em	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§fTREINAR PARA	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT LIVE	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=Rollercoaster	#
+bb.dropper.title=Dropper de Funil	#
+bb.arena.title=Arena de combate do Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Sniffer Parkour	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Tuff Golem Parkour	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Rascal Parkour	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=OK	#
+bb.dialog.button.queue=Entrar na fila	#
+bb.dialog.button.leaderboard=Visualizar Placar	#
+button.close=Fechar	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=Voltar	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=Estranhos ovos debaixo d'água, uma presença misteriosa nas minas e... chapéus que se mexem? Boas-vindas à votação de criaturas! Eu sou o Mini-Vu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=Esta votação estará disponível por 24 horas até Minecraft Live ficar ao vivo. Então a votação vai parar e este lugar desaparecerá para sempre! Essas 24 horas são sua chance de mudar o mundo!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Fale com o Mini-Jens para aprender sobre a votação e com a Mini-Agnes para saber mais sobre as criaturas! E experimente nossos minijogos!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=Hej, hej! Meu nome é Mini-Jens! Boas-vindas à votação!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=Seu voto define o futuro do Minecraft! Ajude-nos, os desenvolvedores da Mojang, a escolher qual será a próxima criatura que vamos desenvolver. Temos três ideias, mas só podemos escolher uma. Só pode haver um! Puxe uma alavanca para votar na sua criatura favorita.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=Você pode mudar seu voto a qualquer momento, mas não importa quantas vezes você puxe esta alavanca ou mude seu voto, apenas seu último voto conta.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=Oi, eu sou a Mini-Agnes! Boas-vindas a esse mundo de criaturas!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=Estamos muito animados em contar mais coisas sobre as criaturas, para ajudar você a decidir em qual votar.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=Sobre qual você gostaria de saber mais?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=O rascal é uma multidão travessa que adora jogar Hide & Seek! 	###{locked="rascal"}
+dialog.rascal.button.2=Ele se esconde em minas subterrâneas, esperando para ser encontrado.	#
+dialog.rascal.button.3=If you spot the same rascal three times, it will reward you with a prize so keep your eyes open!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=O tuff golem é uma estátua com uma torção - ela ganha vida! Quando acordar, ele vai andar por aí, pegar e segurar qualquer item que encontrar.	###{Locked="tuff golem"}
+dialog.tuff.button.2=Não se preocupe, ele voltará ao mesmo lugar que você o colocou quando ele voltar a ser estátua.	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=O sniffer já fez parte do ecossistema do Overworld. Agora você pode trazer de volta a multidão extinta se você pode encontrar seu ovo!	###{locked="sniffer"}
+dialog.sniffer.button.2=Hatch new sniffers, breed them, and figure out how to make the extinct mob thrive once more. There are seeds out there that only the sniffer can find!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Hej Hej! Boas-vindas à arena de combate do Pequeno Jens.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=Quantas ondas você pode derrotar em dois minutos?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=Você ganha pontos ao bater em criaturas e e possível usar os pontos para comprar melhorias!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=Não se preocupe em lutar contra outros jogadores, vocês não podem se machucar!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=Eu vi uma nova criatura aqui embaixo. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=Aí está, naquela caverna! É um rascal, e parece ser amigável.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=Se eu encontrá-lo três vezes, talvez ele me dê um prêmio.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=Eu vi o rascal. Não é hostil, só um pouco travesso.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=Ele vive no subsolo e adora brincar de esconde-esconde.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=Se a comunidade votar pela rascal, podemos manter este jogo de esconde-esconde indo para sempre.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=Mantenha os olhos sempre abertos para segredos!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=Há desafios difíceis, lugares divertidos para jogar, e as criaturas de votações passadas estão escondidas pelo mundo. Consegue encontrar todas?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=Concorra ao seu melhor momento neste desafio dropper saltitante!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=Dá para cair e não bater em nada?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=Fique de olho no temporizador e veja em quanto tempo você pode chegar ao fundo! Você tem um minuto para tentar.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=Isso é uma estátua ou um porta-chapéus? Ah, está vivo!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=Espere, isso pode ser um tuff golem?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=Eles podem segurar um item e andar pela sua casa!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=É uma exposição de arte que pode segurar seu chapéu? Oh, é um tuff golem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=Eu só tinha ouvido rumores sobre a estátua que ganha vida.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=Se os jogadores votarem nisso, podemos abrir uma exposição de arte.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=Viaje pelo mundo e visite os pontos turísticos!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=Você pode sair do Carrinho de Minas a qualquer momento, mas se fizer isso, você vai voltar para mim.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=Quer estacionar até o topo da rascal? Este parkour é o mais fácil aqui. Ainda um pouco complicado!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=Pise em blocos brilhantes para definir os pontos de salvamento. Não caia no chão!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=Ao chegar no topo, puxe a alavanca para tocar o sino!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=Torne-se um com a natureza enquanto nada e sobe pelo domínio do sniffer! Este parkour é de dificuldade média. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=Pise em blocos brilhantes para definir os pontos de salvamento. Não caia no chão!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=Ao chegar no topo, puxe a alavanca para tocar o sino!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=Congelar! Agora descongele, e corra pela casa do tuff golem! Este parkour é o mais difícil aqui. Tipo, muito difícil.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=Pise em blocos brilhantes para definir os pontos de salvamento. Não caia no chão!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=Ao chegar no topo, puxe a alavanca para tocar o sino!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=É um sniffer, pensei que estavam extintos.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=Eles amavam plantas e encontraram sementes cheirando o chão da maneira mais fofa possível.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=Se a comunidade votar pela sniffer eles podem nos ajudar a encontrar novas plantas.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=Esta criatura eclodiu de um ovo antigo estranho.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=Parece ser um especialista em plantas.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=Com todos esses ovos, aposto que poderíamos ajudá-los a prosperar no Mundo Superior de novo.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=Sem problemas	#
+bb.minigames.subtitle.join_queue=Entrou na fila!	#
+bb.minigames.subtitle.in_queue=Você já está nesta fila.	#
+bb.minigames.actionbar.queue.1=Você é o número	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=de	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=na fila para	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=Votação de criaturas!	#
+bb.entry.subtitle=Versão 0.21.4	#
+bb.entry.dialog.title=Você está sendo exibido como Steve.	#
+bb.entry.dialog.body=Este servidor tem visuais personalizados e personalidades desabilitadas. Você pode trocar de visual no Vestiário.	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=O Fim!	#
+bb.coaster.subtitle.end=Valeu por curtir!	#
+bb.coaster.title.exit=Sair	#
+bb.coaster.subtitle.exit=Você saiu do Carrinho de Minas	#
+
+## Battle Arena System Messages
+bb.arena.title.start=Prepare-se...	#
+bb.arena.subtitle.start=Destrua todas as criaturas!	#
+bb.arena.actionbar.start=Você tem dois minutos!	#
+bb.arena.actionbar.score.1=§fPontos:	#
+bb.arena.actionbar.score.2=§f- Tempo:	#
+bb.arena.wave=Acenar	#
+bb.arena.wave.final=ONDA FINAL	#
+bb.arena.win=Você venceu!	#
+bb.arena.subtitle.fight=Lutem!	#
+bb.arena.subtitle.wave_complete=Acabou!	#
+bb.arena.title.game_over=O tempo acabou!!!	#
+bb.arena.subtitle.no_wave_complete=Nenhuma onda concluída	#
+bb.arena.subtitle.one_wave_complete=1 onda concluída	#
+bb.arena.actionbar.no_wave_complete=Mais sorte da próxima vez!	#
+bb.arena.subtitle.game_over=ondas concluídas	#
+bb.arena.title.item_give=Que bom!	#
+bb.arena.subtitle.item_give=Você deu a todos	#
+bb.arena.title.item_get=§aVocê recebeu	#
+bb.arena.title.no_players=Não pode dar agora	#
+bb.arena.subtitle.no_players=Jogo de arena deve estar em execução	#
+bb.arena.title.already_given=Já dado	#
+bb.arena.subtitle.already_given=Apenas uma vez por partida	#
+bb.arena.ending=Arena:	#
+bb.arena.score=Pontuação:	#
+bb.arena.waves_completed=Ondas concluídas:	#
+bb.arena.player_score=Pontuação do jogador:	#
+bb.arena.message.buy_again=§cYou já tem isso	#
+bb.arena.message.downgrade_armor=§cNão é possível comprar poção novamente	#
+bb.arena.message.downgrade_sword=§cNão é possível piorar a espada	#
+bb.arena.message.purchase.1=§aComprado	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=para	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cVocê não pode pagar por isso ainda!	#
+bb.arena.message.death=Você morreu!	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Espada de Ferro	#
+bb.upgrade.weapon.diamond_sword=Espada de Diamante	#
+bb.upgrade.weapon.netherite_sword=Espada de Netherita	#
+bb.upgrade.weapon.trident=Tridente	#
+bb.upgrade.armor.iron_armor=Armadura de Ferro	#
+bb.upgrade.armor.diamond_armor=Armadura de Diamante	#
+bb.upgrade.armor.netherite_armor=Armadura de Netherita	#
+bb.upgrade.consume.cookie=Biscoito	#
+bb.upgrade.consume.potion=Poção da Agilidade	#
+bb.upgrade.consume.apple=Maçã Dourada	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=Você caiu!	#
+bb.waypoint.96=Última tentativa!	#
+bb.waypoint.97=Fim de jogo!	#
+bb.waypoint.98=Concluído!	#
+bb.waypoint.100=Parkour concluído!	#
+bb.waypoint.subtitle.1=Indicadores alcançados	#
+bb.waypoint.subtitle.2=Tempo:	#
+bb.waypoint.subtitle.3=Tentativas restantes:	#
+bb.waypoints=§fIndicadores:	#
+bb.time=§fTempo:	#
+bb.tries=§f- Tentativas restantes:	#
+bb.parkour=Parkour:	#
+bb.parkour.finished=Parkour concluído!	#
+bb.in=em	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=Prepare-se!	#
+bb.dropper.subtitle.start=Olhar para Baixo	#
+bb.dropper.actionbar.start=Em quanto tempo você consegue chegar ao fundo?	#
+bb.dropper.actionbar.time=Tempo:	#
+bb.dropper.title.lose=Tempo esgotado!	#
+bb.dropper.subtitle.lose=Seu tempo acabou	#
+bb.dropper.actionbar.lose=Mais sorte da próxima vez!	#
+bb.dropper.title.win=segundos	#
+bb.dropper.subtitle.win=Seu tempo	#
+bb.dropper.actionbar.win=Bom trabalho!	#
+bb.dropper.actionbar.personal_best=Novo recorde pessoal!	#
+bb.dropper.message.portal=Liberador de Funil:	#
+bb.dropper.message.finished=dropper concluído em	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Placar de líderes da arena	#
+bb.leaderboard.dropper=Placar do Dropper	#
+bb.leaderboard.parkour=Placar de líderes do parkour	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=Fechar janela	#
+
+## Voting Text System Messages
+bb.vote.already_voted=Você já votou	#
+bb.vote.change_vote=Voto alterado	#
+bb.vote.voted=Você votou	#
+bb.vote.received=Voto recebido!	#
+
+###
+action.hint.exit.mv:livetrain=Valeu por curtir!	#

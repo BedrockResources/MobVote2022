@@ -1,0 +1,241 @@
+## Manager entity
+entity.bb:manager.name=Manajer	#
+
+## Name
+name.agnes=Tiny Agnes	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.jens=Tiny Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+name.vu=Tiny Vu	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Signs
+sign.vote.sniffer=§fSniffer	###{Locked}
+sign.vote.golem=§fTuff Golem	###{Locked}
+sign.vote.rascal=§fRascal	###{Locked}
+sign.vote.text=§fPilih	###Dropdown for one of the Mods to vote for
+sign.vote.train1=§fKERETA KE	###Dropdown for a train that takes you to a place
+sign.vote.train2=§fMINECRAFT LIVE	#
+
+
+## Minigame Names and Titles
+bb.coaster.title=Rollercoaster	#
+bb.dropper.title=Penerjun Penampung	#
+bb.arena.title=Arena Pertempuran Jens	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+bb.parkour.sniffer.title=Parkour Sniffer	###{Locked="Sniffer"}
+bb.parkour.tuffgolem.title=Parkour Tuff Golem	###{Locked="Tuff Golem"}
+bb.parkour.rascal.title=Parkour Rascal	###{Locked="Rascal"}
+
+## Dialog buttons
+button.ok=OK	#
+bb.dialog.button.queue=Gabung Antrean	#
+bb.dialog.button.leaderboard=Lihat Papan Peringkat	#
+button.close=Tutup	#
+button.sniffer=Sniffer	###{Locked}
+button.vote.golem=Tuff Golem	###{Locked}
+button.vote.rascal=Rascal	###{Locked}
+button.back=Kembali	#
+
+bb.vote.sniffer=Sniffer	###{Locked}
+bb.vote.golem=Tuff Golem	###{Locked}
+bb.vote.rascal=Rascal	###{Locked}
+
+dialog.vu.1=Telur bawah air yang aneh, kehadiran yang menakutkan di tambang, dan... topi yang bergerak? Selamat datang di voting Mob! Saya Tiny Vu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.2=Voting ini akan tersedia selama 24 jam sampai Minecraft Live tayang. Kemudian voting akan berhenti dan tempat ini akan menghilang selamanya! Kamu punya waktu 24 jam untuk membuat perubahan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.vu.3=Bicaralah dengan Tiny Jens untuk belajar tentang voting dan Tiny Agnes untuk mendengar tentang mob! Dan cobalah permainan mini kami!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.jens.1=Hei! Saya Tiny Jens! Selamat datang di voting!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.2=Suaramu menentukan masa depan Minecraft! Bantu kami pengembang Mojang memilih mob mana yang harus kami kembangkan selanjutnya. Ada tiga ide tetapi hanya satu yang bisa dipilih. Hanya boleh satu! Tarik tuas untuk memilih mob favoritmu.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.jens.3=Kamu bisa mengubah pilihanmu kapan saja, tetapi tidak peduli seberapa sering kamu menarik tuas itu atau mengubah pilihanmu, hanya suara terakhir yang dihitung.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.agnes.1=Hai, saya Tiny Agnes! Selamat datang di dunia mob ini!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.2=Kami senang sekali memberi tahumu lebih banyak tentang mob, untuk membantumu memutuskan mana yang akan dipilih.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.agnes.3=Yang mana yang ingin kamu pelajari?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+## Mob Explanations from Mob Dialog Buttons
+## Rascal Dialog (Button)
+dialog.rascal.button.1=Si rascal adalah mob nakal yang suka bermain Petak Umpet! 	###{locked="rascal"}
+dialog.rascal.button.2=Dia mengintai di tambang bawah tanah, menunggu ditemukan.	#
+dialog.rascal.button.3=Jika kamu melihat rascal yang sama tiga kali, dia akan memberimu hadiah, jadi tetap buka matamu!	###{locked="rascal"}
+
+## Tuff Golem Dialog (Button)
+dialog.tuff.button.1=Si tuff golem adalah patung dengan kejutan - golem ini bisa hidup! Ketika terbangun, dia akan berjalan-jalan, lalu mengambil dan memegang barang apa pun yang ditemukannya.	###{Locked="tuff golem"}
+dialog.tuff.button.2=Jangan khawatir, dia akan kembali ke tempat yang sama dengan yang kamu tempatkan ketika berubah kembali menjadi patung.	#
+dialog.tuff.button.3= 	#
+
+## Sniffer Dialog (Button)
+dialog.sniffer.button.1=Si sniffer pernah menjadi bagian dari ekosistem Overworld. Sekarang kamu bisa menghidupkan kembali mob yang punah jika bisa menemukan telurnya!	###{locked="sniffer"}
+dialog.sniffer.button.2=Tetaskan sniffer baru, biakkan, dan cari cara untuk membuat mob yang punah berkembang sekali lagi. Ada benih di luar sana yang hanya bisa ditemukan oleh sniffer!	###{locked="sniffer"}
+dialog.sniffer.button.3= 	###{Locked}
+
+## Mob Vote Map Dialogue Keys
+
+
+dialog.arena_jens.1=Hej hej! Selamat datang di arena pertempuran Tiny Jens.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.2=Berapa banyak gelombang yang bisa kamu kalahkan dalam dua menit?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.3=Memukul mob memberimu poin dan kamu bisa menggunakan poin tersebut untuk membeli peningkatan!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.arena_jens.4=Tidak perlu melawan pemain lain, kalian tidak boleh saling menyakiti!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_agnes.1=Aku melihat mob baru di bawah sana. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_agnes.2=Itu dia, di gua itu! Ini rascal, dan tampaknya ramah.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_agnes.3=Jika saya menemukannya tiga kali, mungkin dia akan memberi saya hadiah.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.cave_jens.1=Saya melihat rascal. Dia tidak ganas, hanya sedikit nakal.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.cave_jens.2=Dia hidup di bawah tanah dan suka bermain petak umpet.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.cave_jens.3=Jika komunitas memilih rascal, kita dapat menjaga permainan petak umpet ini tetap berjalan selamanya.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+
+dialog.detective_vu.1=Buka matamu untuk menemukan rahasia!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.2=Ada tantangan yang sulit, tempat yang menyenangkan untuk bermain, dan mob dari voting mob masa lalu tersembunyi di seluruh dunia. Bisakah kamu menemukan semuanya?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.detective_vu.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked}
+
+dialog.dropper_agnes.1=Bersaing meraih waktu terbaik di tantangan penerjun melompat ini!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.2=Bisakah kamu terjun dengan mulus dan tidak mengenai apa pun?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.dropper_agnes.3=Perhatikan timer dan lihat secepat apa kamu bisa sampai ke bawah! Ada waktu semenit untuk mencoba.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_agnes.1=Apakah ini patung atau pemegang topi? Oh, dia hidup!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_agnes.2=Tunggu, mungkinkah ini tuff golem?	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_agnes.3=Mereka dapat memegang item dan bergerak di sekitar tempatmu!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.house_jens.1=Ini pameran seni yang bisa memegang topimu? Oh, ternyata tuff golem!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.house_jens.2=Saya hanya mendengar desas-desus tentang patung yang menjadi hidup.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.house_jens.3=Jika pemain memilih ini, kami bisa membuka pameran seni.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+dialog.minecart_jens.1=Ikuti tur dunia dan lihat pemandangannya!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.2=Kamu bisa keluar dari kereta tambang kapan saja, tetapi jika kamu melakukannya, kamu akan kembali kepada saya.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.minecart_jens.3= 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_agnes.1=Ingin parkour ke puncak rascal? Parkour ini adalah yang termudah di sini. Tetapi agak rumit!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="rascal"}
+dialog.parkour_agnes.2=Injak blok bercahaya untuk mengatur titik penyimpanan. Jangan jatuh ke tanah!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_agnes.3=Setelah kamu berada di atas, tarik tuas untuk membunyikan bel!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_jens.1=Menyatu dengan alam saat kamu berenang dan mendaki melalui wilayah sniffer! Tingkat kesulitan parkour sedang. 	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.parkour_jens.2=Injak blok bercahaya untuk mengatur titik penyimpanan. Jangan jatuh ke tanah!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.parkour_jens.3=Setelah kamu berada di atas, tarik tuas untuk membunyikan bel!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.parkour_vu.1=Membeku! Sekarang cairkan diri, dan berlomba melewati rumah tuff golem! Parkour ini adalah yang paling sulit di sini. Pokoknya, sangat sulit.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.2=Injak blok bercahaya untuk mengatur titik penyimpanan. Jangan jatuh ke tanah!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {Locked="tuff golem"}
+dialog.parkour_vu.3=Setelah kamu berada di atas, tarik tuas untuk membunyikan bel!	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+dialog.snorkel_agnes.1=Ini sniffer, saya pikir sudah punah.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+dialog.snorkel_agnes.2=Mereka menyukai tanaman dan menemukan benih dengan mengendus tanah secara menggemaskan.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_agnes.3=Jika terpilih oleh komunitas, sniffer bisa membantu kita menemukan tanaman baru.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated {locked="sniffer"}
+
+dialog.snorkel_jens.1=Mob ini menetas dari telur purba yang paling tidak biasa.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.2=Tampaknya itu ahli tanaman.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+dialog.snorkel_jens.3=Dengan semua telur ini, saya yakin kita bisa membantu mereka kembali berkembang di overworld.	###Jens (m), Agnes (f) and Vu (m) are real people, their names should not be translated
+
+
+
+##############System Messages
+
+## Additional System Dialogues
+bb.minigames.title.np=Tidak ada masalah	#
+bb.minigames.subtitle.join_queue=Bergabung dengan antrean!	#
+bb.minigames.subtitle.in_queue=Kamu sudah berada dalam antrean ini.	#
+bb.minigames.actionbar.queue.1=Kamu di no.	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.2=dari	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+bb.minigames.actionbar.queue.3=dalam antrean untuk	###"You are no. 5 out of 14 in queue for Hopper Dropper"
+
+## Main Server Area System Messages
+bb.entry.title=Voting Mob!	#
+bb.entry.subtitle=Versi 0.21.4	#
+bb.entry.dialog.title=Kamu ditampilkan sebagai Steve.	#
+bb.entry.dialog.body=Server ini telah menonaktifkan skin dan persona kustom. Kamu bisa beralih ke skin lain di kamar ganti.	#
+
+## Endercoaster System Messages
+bb.coaster.title.end=Tamat!	#
+bb.coaster.subtitle.end=Terima kasih telah berkendara!	#
+bb.coaster.title.exit=Keluar	#
+bb.coaster.subtitle.exit=Kamu meninggalkan kereta tambang	#
+
+## Battle Arena System Messages
+bb.arena.title.start=Bersiaplah ...	#
+bb.arena.subtitle.start=Hancurkan semua mob!	#
+bb.arena.actionbar.start=Kamu punya waktu dua menit!	#
+bb.arena.actionbar.score.1=§fPoin:	#
+bb.arena.actionbar.score.2=§f- Waktu:	#
+bb.arena.wave=Gelombang	#
+bb.arena.wave.final=GELOMBANG TERAKHIR	#
+bb.arena.win=Kamu Menang!	#
+bb.arena.subtitle.fight=Bertarung!	#
+bb.arena.subtitle.wave_complete=Semua selesai!	#
+bb.arena.title.game_over=Waktunya Habis!!!	#
+bb.arena.subtitle.no_wave_complete=Tidak ada gelombang yang selesai	#
+bb.arena.subtitle.one_wave_complete=1 gelombang selesai	#
+bb.arena.actionbar.no_wave_complete=Semoga lain kali lebih beruntung!	#
+bb.arena.subtitle.game_over=gelombang selesai	#
+bb.arena.title.item_give=Betapa bagusnya!	#
+bb.arena.subtitle.item_give=Kamu memberi semua orang	#
+bb.arena.title.item_get=§aKamu menerima	#
+bb.arena.title.no_players=Tidak bisa memberi sekarang	#
+bb.arena.subtitle.no_players=Permainan arena harus berjalan	#
+bb.arena.title.already_given=Sudah diberikan	#
+bb.arena.subtitle.already_given=Hanya sekali per pertandingan	#
+bb.arena.ending=Arena:	#
+bb.arena.score=Skor:	#
+bb.arena.waves_completed=Gelombang selesai:	#
+bb.arena.player_score=Skor pemain:	#
+bb.arena.message.buy_again=§cKamu sudah punya ini	#
+bb.arena.message.downgrade_armor=§cTidak bisa membeli ramuan lagi	#
+bb.arena.message.downgrade_sword=§cTidak bisa menurunkan versi pedang	#
+bb.arena.message.purchase.1=§aDibeli	###Used with another string "for" as in "Purchased potion for 100 coins"
+bb.arena.message.purchase.2=seharga	###Used with another string "Purchased" as in "Purchased potion for 100 coins"
+bb.arena.message.no_purchase=§cKamu belum mampu membeli ini!	#
+bb.arena.message.death=Kamu tewas!	#
+
+##Arena Upgrade System Messages
+bb.upgrade.weapon.iron_sword=Pedang Besi	#
+bb.upgrade.weapon.diamond_sword=Pedang Berlian	#
+bb.upgrade.weapon.netherite_sword=Pedang Netherite	#
+bb.upgrade.weapon.trident=Trisula	#
+bb.upgrade.armor.iron_armor=Baju Zirah Besi	#
+bb.upgrade.armor.diamond_armor=Baju Zirah Berlian	#
+bb.upgrade.armor.netherite_armor=Baju Zirah Netherite	#
+bb.upgrade.consume.cookie=Kukis	#
+bb.upgrade.consume.potion=Ramuan Kecepatan	#
+bb.upgrade.consume.apple=Apel Emas	#
+
+##Parkour Challenge System Messages
+bb.waypoint.95=Kamu jatuh!	#
+bb.waypoint.96=Percobaan terakhir!	#
+bb.waypoint.97=Permainan berakhir!	#
+bb.waypoint.98=Selesai!	#
+bb.waypoint.100=Parkour selesai!	#
+bb.waypoint.subtitle.1=Titik acuan tercapai	#
+bb.waypoint.subtitle.2=Waktu:	#
+bb.waypoint.subtitle.3=Sisa percobaan:	#
+bb.waypoints=§fTitik acuan:	#
+bb.time=§fWaktu:	#
+bb.tries=§f- Sisa percobaan:	#
+bb.parkour=Parkour:	#
+bb.parkour.finished=Parkour selesai!	#
+bb.in=dalam	#
+
+## Portal Fall System Messages
+bb.dropper.title.start=Bersiaplah!	#
+bb.dropper.subtitle.start=Lihat ke Bawah	#
+bb.dropper.actionbar.start=Seberapa cepat kamu bisa mencapai dasar?	#
+bb.dropper.actionbar.time=Waktu:	#
+bb.dropper.title.lose=Waktu sudah habis!	#
+bb.dropper.subtitle.lose=Kamu kehabisan waktu	#
+bb.dropper.actionbar.lose=Semoga lain kali lebih beruntung!	#
+bb.dropper.title.win=detik	#
+bb.dropper.subtitle.win=Waktumu	#
+bb.dropper.actionbar.win=Bagus!	#
+bb.dropper.actionbar.personal_best=Rekor pribadi terbaik!	#
+bb.dropper.message.portal=Penerjun Penampung:	#
+bb.dropper.message.finished=penerjun selesai dalam	#
+
+## Leaderboard Information System Messages
+bb.leaderboard.arena=Papan Peringkat Arena	#
+bb.leaderboard.dropper=Papan Peringkat Penerjun	#
+bb.leaderboard.parkour=Papan Peringkat Parkour	#
+bb.leaderboard.none=<no leaderboard data>	#
+bb.leaderboard.button.close=Tutup jendela	#
+
+## Voting Text System Messages
+bb.vote.already_voted=Kamu sudah memilih	#
+bb.vote.change_vote=Pilihan diubah	#
+bb.vote.voted=Kamu Memilih	#
+bb.vote.received=Pilihan diterima!	#
+
+###
+action.hint.exit.mv:livetrain=Terima kasih telah berkendara!	#

@@ -1,0 +1,39 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:detective_vu",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/detective_vu",
+				"talk": "textures/entity/detective_vu_talk"
+			},
+			"geometry": {
+				"default": "geometry.detective_vu"
+			},
+
+			"render_controllers": ["controller.render.detective_vu"],
+
+			"scripts":{
+				"animate":["detective_vu_controller", "particle_controller"]
+			},
+
+			"animations":{
+				"idle_x1": "animation.detective_vu.Idle_x1",
+				"idle_x2": "animation.detective_vu.Idle_x2",
+				"idle_x3": "animation.detective_vu.Idle_x3",
+				"idle_x4": "animation.detective_vu.Idle_x4",
+				"look_around": "animation.detective_vu.Look_Around",
+				"talk": "animation.detective_vu.Talk",
+				"start_game":"animation.detective_vu.Start_Game",
+
+				"default_particle_animation": "animation.particle.default",
+				"detective_vu_controller": "controller.animation.detective_vu",
+				"particle_controller":"controller.animation.particle"
+			},
+			"particle_effects": {"default": "mv:talk_icon"}
+		}
+	}
+}

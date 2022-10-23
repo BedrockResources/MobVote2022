@@ -1,0 +1,42 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mv:dropper_agnes",
+			"materials": {
+				"default": "dropper_agnes"
+			},
+			"textures": {
+				"default": "textures/entity/dropper_agnes",
+				"talk": "textures/entity/dropper_agnes_talk"
+			},
+			"geometry": {
+				"default": "geometry.dropper_agnes"
+			},
+
+			"render_controllers": ["controller.render.dropper_agnes"],
+
+			"scripts":{
+				"animate":["dropper_agnes_controller", "particle_controller"]
+			},
+
+			"animations":{
+				"float_x1": "animation.dropper_agnes.Float_x1",
+				"float_x2": "animation.dropper_agnes.Float_x2",
+				"float_x3": "animation.dropper_agnes.Float_x3",
+				"float_x4": "animation.dropper_agnes.Float_x4",
+				"float_x5": "animation.dropper_agnes.Float_x5",
+				"float_x6": "animation.dropper_agnes.Float_x6",
+				"flap": "animation.dropper_agnes.Flap",
+				"look_around": "animation.dropper_agnes.LookAround",
+				"talk": "animation.dropper_agnes.Talk",
+				"start_game":"animation.dropper_agnes.Start_Game",
+				
+				"default_particle_animation": "animation.particle.default",
+				"dropper_agnes_controller": "controller.animation.dropper_agnes",
+				"particle_controller":"controller.animation.particle"
+			},
+			"particle_effects": {"default": "mv:dropper_agnes_icon"}
+		}
+	}
+}
